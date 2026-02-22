@@ -1,0 +1,33 @@
+name: Build
+
+on:
+    push:
+        branches: [main]
+    pull_request:
+        branches: [main]
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-22.04
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: typst-community/setup-typst@v4
+              with:
+                  typst-version: 0.13.1
+
+            - name: Download Pretendard font
+              run: |
+                  curl -Lf https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-1.3.9.zip --output Pretendard.zip
+                  unzip Pretendard.zip public/static/*.otf
+                  mkdir -p fonts
+                  cp -r public/static fonts
+
+            - name: Compile resumes (PDF + multi-page SVG)
+              run: |
+                  typst compile --font-path fonts resume_ko.typ resume_ko.pdf
+                  typst compile --font-path fonts resume_ko.typ "resume_ko_{p}.svg"
+                  typst compile --font-path fonts resume.typ resume.pdf
+                  typst compile --font-path fonts resume.typ "resume_{p}.svg"
