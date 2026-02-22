@@ -1,0 +1,25 @@
+resume.typ
+  1327786fa2b61a90 2,93-95,112,115,124,128,135,137-139,141-146,149-279,286,291-292,294,296,302-308,314,331,334,343,348-351,354,356,360-362,372
+resume_ko.typ
+  1327786fa2b61a90 1-46,48-340
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "77eb98d0e09284528769869a47b1791d133fd011",
+  "prompts": {
+    "1327786fa2b61a90": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "90573f2a-ed7e-40e2-bd0a-b51a2da449ac",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 531,
+      "total_deletions": 111,
+      "accepted_lines": 516,
+      "overriden_lines": 1
+    }
+  }
+}
