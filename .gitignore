@@ -1,0 +1,4 @@
+resume*.pdf
+!output/*.pdf
+TODO/**
+privates/**
