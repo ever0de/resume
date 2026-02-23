@@ -1,0 +1,35 @@
+README.en.md
+  b6803940bfa736da 7,24,35,37-43,46-47,49,51-55,57-58,60-61,63-64,66-67
+resume_ko.typ
+  b6803940bfa736da 101,106-109
+.github/workflows/build.yml
+  b6803940bfa736da 1-44
+modules/components.typ
+  b6803940bfa736da 1-62,64-65,67-70,72-73,75-76,78-86,88-92,94-95,97-103
+resume.typ
+  b6803940bfa736da 128,130-131
+README.md
+  b6803940bfa736da 38-43,46-47,49,53,56,60,65-66
+modules/metadata.typ
+  b6803940bfa736da 1-18,21-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "ee4321c6da8640dde86056dc2eac4c82b48623d5",
+  "prompts": {
+    "b6803940bfa736da": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "9f94cdeb-32f4-45a1-809c-4369a42080cd",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 304,
+      "total_deletions": 53,
+      "accepted_lines": 481,
+      "overriden_lines": 23
+    }
+  }
+}
