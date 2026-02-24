@@ -1,0 +1,29 @@
+resume.typ
+  2c15055b5fdba93e 70,88,90-92,112,114-115
+modules/metadata.typ
+  2c15055b5fdba93e 23-24,35-38,41-43,72-74,105-106,111-112,123-124,132-133,141-142
+resume_ko.typ
+  2c15055b5fdba93e 85,92-95,117-119
+AGENTS.md
+  2c15055b5fdba93e 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "e88fbb0e632a8dc01d448cc2c136ec7af32491f4",
+  "prompts": {
+    "2c15055b5fdba93e": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "ce8265dc-a0d5-4df0-9566-8292b840e5ff",
+        "model": "copilot/claude-opus-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 85,
+      "total_deletions": 99,
+      "accepted_lines": 56,
+      "overriden_lines": 3
+    }
+  }
+}
