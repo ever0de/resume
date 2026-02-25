@@ -1,0 +1,23 @@
+AGENTS.md
+  141039206fb7594e 11-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "4cf667067d1339a9e7aa6c675d406467b3f901f1",
+  "prompts": {
+    "141039206fb7594e": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "e04bfa20-db35-44aa-9964-1d6ae7f2ec46",
+        "model": "copilot/claude-opus-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 0,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
