@@ -1,0 +1,29 @@
+modules/metadata.typ
+  fce35e7caa7c737b 23-25
+resume.typ
+  fce35e7caa7c737b 31,66
+resume_ko.typ
+  fce35e7caa7c737b 68
+modules/components.typ
+  fce35e7caa7c737b 61-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "c1937e33017201e12a5ffd43056830f1fd2defc5",
+  "prompts": {
+    "fce35e7caa7c737b": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "34f815a1-1aec-4633-b4d0-1047c6852cf7",
+        "model": "unknown"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 19,
+      "accepted_lines": 26,
+      "overriden_lines": 0
+    }
+  }
+}
