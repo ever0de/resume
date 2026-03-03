@@ -1,0 +1,42 @@
+modules/metadata.typ
+  fce35e7caa7c737b 116-119,128-131,140-143,152-155,164-167,176-179,188-191
+modules/components.typ
+  fce35e7caa7c737b 96,111,113-114,120-121,138,142
+README.md
+  668ad8ef8c5a484f 9-10,17-23
+AGENTS.md
+  fce35e7caa7c737b 17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "3a3db97b8f6aee22b7bc6b4a7afd6334df5c1c08",
+  "prompts": {
+    "668ad8ef8c5a484f": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "ba123816-c619-4e29-949a-b36d22aef7b9",
+        "model": "copilot/gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 4,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    },
+    "fce35e7caa7c737b": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "34f815a1-1aec-4633-b4d0-1047c6852cf7",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 42,
+      "total_deletions": 20,
+      "accepted_lines": 42,
+      "overriden_lines": 0
+    }
+  }
+}
