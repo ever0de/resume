@@ -1,0 +1,23 @@
+.github/workflows/build.yml
+  668ad8ef8c5a484f 28,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "51579feb174abfbfc6c0df14d3820a6f8e0d3a5b",
+  "prompts": {
+    "668ad8ef8c5a484f": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "ba123816-c619-4e29-949a-b36d22aef7b9",
+        "model": "copilot/gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 76,
+      "total_deletions": 41,
+      "accepted_lines": 28,
+      "overriden_lines": 1
+    }
+  }
+}
