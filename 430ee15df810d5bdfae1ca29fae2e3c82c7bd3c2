@@ -1,0 +1,43 @@
+modules/metadata.typ
+  9ea763c5afe1a836 20,31-32,36-41,43-44,48-53,55-56,68-70,74-75,87,94,114-115,123-124,159-160,168-169
+resume.typ
+  9ea763c5afe1a836 87,90,94-95,97,108-109
+README.md
+  9ea763c5afe1a836 1-2,13,15
+  de7f8e737e4ae6fe 3-12
+resume_ko.typ
+  9ea763c5afe1a836 58-60,89-90,92,94-95,98-101,110,113-115,121,123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "430ee15df810d5bdfae1ca29fae2e3c82c7bd3c2",
+  "prompts": {
+    "9ea763c5afe1a836": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "6eb52c5b-4a8b-4dd3-b969-391ee3499d85",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 237,
+      "total_deletions": 141,
+      "accepted_lines": 66,
+      "overriden_lines": 9
+    },
+    "de7f8e737e4ae6fe": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "512dcfa2-3ef8-45ed-ba8b-67ad7fdd9c73",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 8,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
