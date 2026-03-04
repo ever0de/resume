@@ -16,7 +16,7 @@ jobs:
 
             - uses: typst-community/setup-typst@v4
               with:
-                  typst-version: 0.13.1
+                  typst-version: 0.14.2
 
             - name: Download Pretendard font
               run: |

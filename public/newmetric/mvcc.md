@@ -213,9 +213,9 @@ for ; key_iterator.Valid(); key_iterator.Next() {
     
     → This is the biggest pain point I can think of right now.
     
-    EDIT) replace nebari to [[2] `sanakirja-core` cow btree](https://www.notion.so/2-sanakirja-core-cow-btree-6f2fd557f9704d82be61bf478d30697c?pvs=21) 
+    EDIT) replace nebari to [2] `sanakirja-core` cow btree 
     
-2.  [[3] immutable database (+ time-travel query) ](https://www.notion.so/3-immutable-database-time-travel-query-7d711fd772fa4b278142cd88d00186ef?pvs=21) 
+2.  [3] immutable database (+ time-travel query)
     
     Perhaps the ultimate solution is a database that is immutable (with objstorage?) + time travel.
     
