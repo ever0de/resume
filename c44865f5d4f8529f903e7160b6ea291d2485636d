@@ -1,0 +1,37 @@
+modules/metadata.typ
+  76cbdb262960d4ef 69-71,73,77-79,81-82
+  0698f2f17b902339 72,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "c44865f5d4f8529f903e7160b6ea291d2485636d",
+  "prompts": {
+    "0698f2f17b902339": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "54287a2e-a5b1-4e32-9881-4eed981ca0e6",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "76cbdb262960d4ef": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "0b28ccb0-c2f6-4e65-b876-6f79ae152c75",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 22,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
