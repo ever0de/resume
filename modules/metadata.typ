@@ -30,8 +30,8 @@
       title-en: "Software Engineer",
       org-ko: "Newmetric",
       org-en: "Newmetric",
-      period-ko: "2023년 4월 – 2026년 3월",
-      period-en: "Apr 2023 – Mar 2026",
+      period-ko: "2023년 3월 – 2026년 3월",
+      period-en: "Mar 2023 – Mar 2026",
       tags: ("Rust", "Go", "gRPC", "k8s", "pebble"),
       body-ko: [
         블록체인 RPC 인프라 및 분산 KV 스토어 설계·구현. 노드 소프트웨어부터 배포 자동화까지 백엔드 전반 담당.
