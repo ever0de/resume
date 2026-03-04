@@ -16,6 +16,6 @@
 `.typ` 파일 수정 후 **반드시 SVG로 컴파일**해야 합니다.
 
 ```sh
-typst compile resume_ko.typ "resume_ko_{p}.svg"
-typst compile resume.typ "resume_{p}.svg"
+typst compile resume_ko.typ "output/resume_ko_{p}.svg"
+typst compile resume.typ "output/resume_{p}.svg"
 ```

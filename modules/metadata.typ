@@ -37,7 +37,7 @@
         블록체인 RPC 인프라 및 분산 KV 스토어 설계·구현. 노드 소프트웨어부터 배포 자동화까지 백엔드 전반 담당.
 
         - 읽기/쓰기 노드 분리로 lock contention 제거 — 수평 확장이 불가능한 단일 노드 구조를 수평 확장 가능하게 전환.
-          - CoW 스냅샷 기반 체크포인트 + 버전별 diff 파일로 time travel query 지원 (과거 height 기준 상태 조회 및 merge sort 범위 쿼리).
+          - CoW 스냅샷 체크포인트 + change sets 기반 merge on read로 time travel query 지원 — 읽기 빈도가 낮은 과거 height 상태를 change sets merge sort로 제공하여 스토리지 풋프린트 최소화.
           - 벤치마크: initia 메인넷 Day 1 약 140k ops/s, p90 = 26.1ms (동일 하드웨어 바닐라 노드 대비 17.5배 개선).
         - 네트워크 레이어에 이벤트 기반 비동기 네트워킹 도입 — zero-allocation 패킷 처리로 GC 압력 최소화.
         - cosmos-sdk의 멤풀을 Signer 기반 샤딩 멤풀으로 교체하여 CheckTx/RecheckTx 병렬화.
@@ -48,7 +48,7 @@
       ],
       body-en: [
         - Read/write node split: eliminated lock contention and enabled horizontal scaling of a previously non-scalable single-node architecture.
-          - CoW snapshot checkpoints + per-version diff files enabling time travel queries (point-in-time state reads and merge-sort range scans by historical height).
+          - Time travel queries via CoW snapshot checkpoints + merge-on-read over change sets — low-frequency historical height reads served by merge-sorting change sets, minimising storage footprint.
           - Benchmark: initia mainnet Day 1 ≈140k ops/s, p90 = 26.1ms (17.5× improvement vs single-node vanilla on identical hardware).
         - Adopted event-driven async networking for zero-allocation packet handling and GC pressure reduction.
         - Replaced the cosmos-sdk mempool with a Signer-based sharded mempool for parallel CheckTx/RecheckTx processing.
