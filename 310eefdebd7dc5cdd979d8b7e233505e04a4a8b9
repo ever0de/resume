@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "310eefdebd7dc5cdd979d8b7e233505e04a4a8b9",
+  "prompts": {
+    "668ad8ef8c5a484f": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "ba123816-c619-4e29-949a-b36d22aef7b9",
+        "model": "copilot/gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 89,
+      "total_deletions": 0,
+      "accepted_lines": 84,
+      "overriden_lines": 0
+    }
+  }
+}
