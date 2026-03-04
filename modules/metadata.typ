@@ -37,6 +37,7 @@
         블록체인 RPC 인프라 및 분산 KV 스토어 설계·구현. 노드 소프트웨어부터 배포 자동화까지 백엔드 전반 담당.
 
         - 읽기/쓰기 노드 분리로 lock contention 제거 — 수평 확장이 불가능한 단일 노드 구조를 수평 확장 가능하게 전환.
+          - hard memory limit을 가진 arena-skiplist 기반 lock-free MVCC 인메모리 KV 캐시 구현 — ring-buffer RotatePool로 슬롯 관리, range_history 기반 iterator range 캐시 지원.
           - CoW 스냅샷 체크포인트 + change sets 기반 merge on read로 time travel query 지원 — 읽기 빈도가 낮은 과거 height 상태를 change sets merge sort로 제공하여 스토리지 풋프린트 최소화.
           - 벤치마크: initia 메인넷 Day 1 약 140k ops/s, p90 = 26.1ms (동일 하드웨어 바닐라 노드 대비 17.5배 개선).
         - 네트워크 레이어에 이벤트 기반 비동기 네트워킹 도입 — zero-allocation 패킷 처리로 GC 압력 최소화.
@@ -48,6 +49,7 @@
       ],
       body-en: [
         - Read/write node split: eliminated lock contention and enabled horizontal scaling of a previously non-scalable single-node architecture.
+          - Implemented a lock-free MVCC in-memory KV cache on an arena-skiplist with a hard memory limit — ring-buffer RotatePool for slot management; iterator range cache via range_history.
           - Time travel queries via CoW snapshot checkpoints + merge-on-read over change sets — low-frequency historical height reads served by merge-sorting change sets, minimising storage footprint.
           - Benchmark: initia mainnet Day 1 ≈140k ops/s, p90 = 26.1ms (17.5× improvement vs single-node vanilla on identical hardware).
         - Adopted event-driven async networking for zero-allocation packet handling and GC pressure reduction.
@@ -177,8 +179,8 @@
       stats: "★5.8k · 1 PR",
       about-ko: "CockroachDB 구동 Go LSM 스토리지 엔진.",
       about-en: "Go LSM storage engine powering CockroachDB.",
-      contrib-ko: "TombstoneDenseCompactionThreshold 런타임 동적 재설정 지원 (#5458).",
-      contrib-en: "Runtime dynamic reconfiguration for TombstoneDenseCompactionThreshold (#5458).",
+      contrib-ko: "TombstoneDenseCompactionThreshold 런타임 재설정을 옵션으로 노출 (#5458).",
+      contrib-en: "Exposed TombstoneDenseCompactionThreshold as a runtime-reconfigurable option (#5458).",
     ),
     (
       project: "stc",
@@ -225,8 +227,8 @@
       stats: "★74 · 3 PRs",
       about-ko: "분산 조직을 위한 BFT 블록체인 엔진.",
       about-en: "BFT blockchain engine for decentralized organizations.",
-      contrib-ko: "ExtraAgendaTransaction 생성 통합 테스트 추가 및 Cargo.lock 관리 개선.",
-      contrib-en: "Added integration test for ExtraAgendaTransaction creation; improved Cargo.lock management.",
+      contrib-ko: "ExtraAgendaTransaction 생성 통합 테스트 추가.",
+      contrib-en: "Added integration test for ExtraAgendaTransaction creation.",
     ),
     (
       project: "sqlparser-rs",
