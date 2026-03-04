@@ -40,7 +40,7 @@
           - CoW 스냅샷 기반 체크포인트 + 버전별 diff 파일로 time travel query 지원 (과거 height 기준 상태 조회 및 merge sort 범위 쿼리).
           - 벤치마크: initia 메인넷 Day 1 약 140k ops/s, p90 = 26.1ms (동일 하드웨어 바닐라 노드 대비 17.5배 개선).
         - 네트워크 레이어에 이벤트 기반 비동기 네트워킹 도입 — zero-allocation 패킷 처리로 GC 압력 최소화.
-        - signer 기반 샤딩 멤풀 도입으로 CheckTx/RecheckTx 병렬화.
+        - cosmos-sdk의 멤풀을 Signer 기반 샤딩 멤풀으로 교체하여 CheckTx/RecheckTx 병렬화.
         - Sparse Merkle Tree witness 추출 + partial state re-execution 기반 L1↔L2 stateless verification 구현.
         - cosmos-sdk용 mainnet fork node 구현 (layered CoW DB 기반 height-level state fork).
         - 온체인 거버넌스 업그레이드 감지·rolling restart 자동화 Kubernetes operator 개발.
@@ -51,7 +51,7 @@
           - CoW snapshot checkpoints + per-version diff files enabling time travel queries (point-in-time state reads and merge-sort range scans by historical height).
           - Benchmark: initia mainnet Day 1 ≈140k ops/s, p90 = 26.1ms (17.5× improvement vs single-node vanilla on identical hardware).
         - Adopted event-driven async networking for zero-allocation packet handling and GC pressure reduction.
-        - Signer-based shard mempool for parallel CheckTx/RecheckTx processing.
+        - Replaced the cosmos-sdk mempool with a Signer-based sharded mempool for parallel CheckTx/RecheckTx processing.
         - L1↔L2 stateless verification via sparse Merkle tree witness extraction + partial state re-execution.
         - cosmos-sdk mainnet fork node: height-level state fork via layered CoW DB.
         - k8s operator for on-chain governance upgrade detection and rolling restarts; 5+ self-hosted CI runners.
@@ -186,11 +186,59 @@
       period-ko: "2022.11",
       period-en: "Nov 2022",
       tags: ("Rust", "TypeScript"),
-      stats: "2 PRs",
+      stats: "★5.7k · 2 PRs",
       about-ko: "Rust 기반 TypeScript 타입 체커 (SWC 팀).",
       about-en: "Rust-based TypeScript type checker by the SWC team.",
       contrib-ko: "template literal type intrinsics 구현, 배열 패턴 기본값 오류 수정.",
       contrib-en: "Template literal type intrinsics and array pattern default value fix.",
+    ),
+    (
+      project: "apache/opendal",
+      repo: "apache/opendal",
+      period-ko: "2024.12",
+      period-en: "Dec 2024",
+      tags: ("Rust",),
+      stats: "★4.9k · 1 PR",
+      about-ko: "다양한 스토리지 서비스를 단일 레이어로 추상화하는 Apache 프로젝트.",
+      about-en: "Apache project providing a unified access layer over diverse storage services.",
+      contrib-ko: "NonContiguous Buffer의 to_bytes에서 단일 청크일 때 불필요한 복사 제거 (#5388).",
+      contrib-en: "Eliminated unnecessary copy in to_bytes when NonContiguous Buffer contains a single chunk (#5388).",
+    ),
+    (
+      project: "tree-sitter-go-mod",
+      repo: "camdencheek/tree-sitter-go-mod",
+      period-ko: "2023.12 – 2024.06",
+      period-en: "Dec 2023 – Jun 2024",
+      tags: ("Rust",),
+      stats: "★62 · 1 PR, 1 Issue",
+      about-ko: "go.mod 파일용 tree-sitter 문법.",
+      about-en: "tree-sitter grammar for go.mod files.",
+      contrib-ko: "replace_directive 내 comment 파싱 오류 리포트 및 수정 방향 제안 (#16).",
+      contrib-en: "Reported and proposed a fix for incorrect comment parsing inside replace_directive (#16).",
+    ),
+    (
+      project: "simperby",
+      repo: "postech-dao/simperby",
+      period-ko: "2023.03",
+      period-en: "Mar 2023",
+      tags: ("Rust",),
+      stats: "★74 · 3 PRs",
+      about-ko: "분산 조직을 위한 BFT 블록체인 엔진.",
+      about-en: "BFT blockchain engine for decentralized organizations.",
+      contrib-ko: "ExtraAgendaTransaction 생성 통합 테스트 추가 및 Cargo.lock 관리 개선.",
+      contrib-en: "Added integration test for ExtraAgendaTransaction creation; improved Cargo.lock management.",
+    ),
+    (
+      project: "sqlparser-rs",
+      repo: "sqlparser-rs/sqlparser-rs",
+      period-ko: "2021.08",
+      period-en: "Aug 2021",
+      tags: ("Rust",),
+      stats: "★3.3k · 2 PRs",
+      about-ko: "Rust 기반 확장 가능한 SQL 렉서·파서.",
+      about-en: "Extensible SQL lexer and parser in Rust.",
+      contrib-ko: "TRIM 표현식 파싱용 TrimWhereField 추가 및 테스트 작성 (#334).",
+      contrib-en: "Added TrimWhereField for parse_trim_expr with tests (#334).",
     ),
   ),
 )
