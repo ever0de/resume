@@ -1,19 +1,13 @@
 # 최지석 이력서 / Jiseok Choi — Résumé
 
-<table>
-<tr>
-<td><b>국문</b></td>
-<td><b>English</b></td>
-</tr>
-<tr>
-<td><img alt="국문 이력서 (1/2)" src="./output/resume_ko_1.svg" width="400"></td>
-<td><img alt="English résumé (1/2)" src="./output/resume_1.svg" width="400"></td>
-</tr>
-<tr>
-<td><img alt="국문 이력서 (2/2)" src="./output/resume_ko_2.svg" width="400"></td>
-<td><img alt="English résumé (2/2)" src="./output/resume_2.svg" width="400"></td>
-</tr>
-</table>
+> **모바일 사용자**: [국문 PDF](./output/resume_ko.pdf) · [English PDF](./output/resume.pdf)
+
+## Preview
+
+| 국문 | English |
+|------|---------|
+| ![](./output/resume_ko_1.svg) | ![](./output/resume_1.svg) |
+| ![](./output/resume_ko_2.svg) | ![](./output/resume_2.svg) |
 
 ## Newmetric 재직 중 작성한 문서
 
@@ -24,12 +18,24 @@
 
 ## 빌드
 
+한 줄로 SVG, PDF, PNG 모두 생성:
+
 ```sh
-# SVG for multi-page output (adds page number into filename)
+./build.sh
+```
+
+또는 개별 컴파일:
+
+```sh
+# SVG (multi-page output)
 typst compile resume_ko.typ "output/resume_ko_{p}.svg"
 typst compile resume.typ "output/resume_{p}.svg"
 
-# or produce single-file PDF
-typst compile resume_ko.typ
-typst compile resume.typ
+# PDF
+typst compile resume_ko.typ output/resume_ko.pdf
+typst compile resume.typ output/resume.pdf
+
+# PNG thumbnails (from SVG first page)
+convert -density 300 output/resume_ko_1.svg output/resume_ko_thumb.png
+convert -density 300 output/resume_1.svg output/resume_thumb.png
 ```

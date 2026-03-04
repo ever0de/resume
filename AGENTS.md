@@ -13,9 +13,14 @@
 
 ## 빌드
 
-`.typ` 파일 수정 후 **반드시 SVG로 컴파일**해야 합니다.
+`.typ` 파일 수정 후 **반드시 SVG와 PDF 모두 컴파일**해야 합니다.
 
 ```sh
+# SVG (다중 페이지, 페이지 번호 삽입)
 typst compile resume_ko.typ "output/resume_ko_{p}.svg"
 typst compile resume.typ "output/resume_{p}.svg"
+
+# PDF (output/에 코미트)
+typst compile resume_ko.typ output/resume_ko.pdf
+typst compile resume.typ output/resume.pdf
 ```
