@@ -1,0 +1,23 @@
+modules/metadata.typ
+  0f0a18260e59b1c6 33-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "9bdd6fd41ae78589e0dd49b8e9de749e91a27f59",
+  "prompts": {
+    "0f0a18260e59b1c6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dcebbdc7-1311-4803-8552-280fc12beadc",
+        "model": "unknown"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
