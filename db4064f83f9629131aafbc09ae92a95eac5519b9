@@ -1,0 +1,25 @@
+modules/metadata.typ
+  b7fa0c7cc299efe7 53,101
+public/newmetric/cache/README.md
+  b7fa0c7cc299efe7 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "db4064f83f9629131aafbc09ae92a95eac5519b9",
+  "prompts": {
+    "b7fa0c7cc299efe7": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dfae21f9-27cf-4aa3-86ac-3e435d611f50",
+        "model": "unknown"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
