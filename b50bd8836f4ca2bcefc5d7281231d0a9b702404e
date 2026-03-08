@@ -1,0 +1,23 @@
+public/newmetric/cache/README.md
+  907d238677cc634d 15,23,33,58,64,66,80,91,93-112,117-118,122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "b50bd8836f4ca2bcefc5d7281231d0a9b702404e",
+  "prompts": {
+    "907d238677cc634d": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "9de4e99c-85ff-4fdc-a753-d86b985cde7c",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 56,
+      "total_deletions": 28,
+      "accepted_lines": 33,
+      "overriden_lines": 3
+    }
+  }
+}
