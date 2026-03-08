@@ -9,7 +9,7 @@
 | ![](./output/resume_ko_1.svg) | ![](./output/resume_1.svg) |
 | ![](./output/resume_ko_2.svg) | ![](./output/resume_2.svg) |
 
-## Newmetric 재직 중 작성한 문서
+## Newmetric 관련 공개 가능한 문서
 
 | 파일 | 내용 |
 |------|------|

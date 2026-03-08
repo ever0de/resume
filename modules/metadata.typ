@@ -50,7 +50,7 @@
       body-en: [
         - Read/write node split: eliminated lock contention and enabled horizontal scaling of a previously non-scalable single-node architecture.
           - Implemented a lock-free MVCC in-memory KV cache on an arena-skiplist with a hard memory limit — ring-buffer RotatePool for slot management; iterator range cache via range_history.
-          - Time travel queries via CoW snapshot checkpoints + merge-on-read over change sets — low-frequency historical height reads served by merge-sorting change sets, minimising storage footprint.
+          - Time travel queries via CoW snapshot checkpoints + merge-on-read over change sets — low-frequency historical height reads served by merge-sorting change sets, minimizing storage footprint.
           - Benchmark: initia mainnet Day 1 ≈140k ops/s, p90 = 26.1ms (17.5× improvement vs single-node vanilla on identical hardware).
         - Adopted event-driven async networking for zero-allocation packet handling and GC pressure reduction.
         - Replaced the cosmos-sdk mempool with a Signer-based sharded mempool for parallel CheckTx/RecheckTx processing.
@@ -98,7 +98,7 @@
         - alpha strategy 백테스팅을 위한 S3 + MongoDB + Parquet 데이터 파이프라인 구축 — crossbeam 기반 병렬 실행.
       ],
       body-en: [
-        - Implemented Rust REST, WebSocket, and FIX protocol clients for centralised exchanges (CEX).
+        - Implemented Rust REST, WebSocket, and FIX protocol clients for centralized exchanges (CEX).
         - Built a multi-exchange Order Execution System with an OrderServer abstraction — actix-web HTTP API exposing order create/cancel, balance, and position queries to strategies; MongoDB-backed order state management.
         - Built an S3 + MongoDB + Parquet data pipeline for alpha strategy backtesting — parallel execution via crossbeam.
       ],
@@ -131,7 +131,7 @@
       stats: "★71.8k · 1 PR",
       about-ko: "CPython 공식 저장소.",
       about-en: "The official CPython repository.",
-      contrib-ko: "test_class.py의 Py_TPFLAGS_MANAGED_DICT 상수 오배 수정 (#136538).",
+      contrib-ko: "test_class.py의 Py_TPFLAGS_MANAGED_DICT 상수 오류 수정 (#136538).",
       contrib-en: "Fixed Py_TPFLAGS_MANAGED_DICT constant mislabeled in test_class.py (#136538).",
     ),
     (
