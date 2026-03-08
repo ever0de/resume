@@ -12,7 +12,8 @@
 
 B2B SaaS 형태로 여러 체인의 RPC 엔드포인트를 제공하는 서비스를 운영하면서, 특정 체인에 예측 불가능한 트래픽 스파이크가 발생하는 문제를 겪었습니다.
 
-구조적인 문제는 Cosmos SDK에 있었습니다. Cosmos SDK v0.46 이전에서 사용하던 Tendermint의 ABCI 클라이언트([`local_client.go`](https://github.com/tendermint/tendermint/blob/v0.35.0/abci/client/local_client.go#L15-L21))는 단일 `*tmsync.Mutex`를 공유해, ABCI 처리·RPC 쿼리·CheckTx 등 모든 작업을 **전역 뮤텍스(global mutex)** 로 직렬화하고 있었습니다. 이 때문에 블록 실행 중에는 RPC 전체가 블로킹되고, 하나의 RPC 요청이 오래 걸리면 그 시간 동안 아무것도 처리하지 못했습니다. scale-out을 위해 노드를 추가하려면 최신 snapshot이 필요했기 때문에, hot standby 노드를 준비해도 갑작스러운 CPU spike에 즉각 대응하는 horizontal scale-out은 사실상 불가능했습니다. 최신 state snapshot은 체인에 따라 10 GB 내외에 달하기도 하여, 유연한 scale-out을 위해 복수의 노드를 미리 준비해두는 것은 인프라 비용 측면에서도 큰 부담이었습니다.
+구조적인 문제는 Cosmos SDK에 있었습니다. Cosmos SDK v0.46 이전에서 사용하던 Tendermint의 ABCI 클라이언트([`local_client.go`](https://github.com/tendermint/tendermint/blob/v0.35.0/abci/client/local_client.go#L15-L21))는 단일 `*tmsync.Mutex`를 공유해, ABCI 처리·RPC 쿼리·CheckTx 등 모든 작업을 **전역 뮤텍스(global mutex)** 로 직렬화하고 있었습니다. 이 때문에 블록 실행 중에는 RPC 전체가 블로킹되고, 하나의 RPC 요청이 오래 걸리면 그 시간 동안 아무것도 처리하지 못했습니다.
+또한 기존 구조로는 scale-out을 위해 노드를 추가하려면 최신 snapshot이 필요했기 때문에, hot standby 노드를 준비해도 갑작스러운 CPU spike에 즉각 대응하는 horizontal scale-out은 사실상 불가능했습니다. 최신 state snapshot은 체인에 따라 10 GB 내외에 달하기도 하여, 유연한 scale-out을 위해 복수의 노드를 미리 준비해두는 것은 인프라 비용 측면에서도 큰 부담이었습니다.
 
 핵심은 **블록체인 RPC의 트래픽 특성**이었습니다. read 쓰루풋은 매우 높지만, write는 블록 생성 주기(`height`)마다 한 번씩 batch로 발생하는 구조였습니다. write 워크로드(블록 실행·합의)와 read 워크로드(RPC)를 완전히 분리하고, **stateless cache 레이어**를 별도로 구성하면 캐시 노드만 scale-out해서 RPC를 처리할 수 있다는 아이디어로부터 시작했습니다.
 
