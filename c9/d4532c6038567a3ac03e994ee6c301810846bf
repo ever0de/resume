@@ -1,0 +1,39 @@
+modules/metadata.typ
+  b7fa0c7cc299efe7 53,101
+public/newmetric/cache/README.md
+  b7fa0c7cc299efe7 15
+  907d238677cc634d 3-6,8-10,18,23,33,58,64,66,80,86,88-91,93-120,122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "c9d4532c6038567a3ac03e994ee6c301810846bf",
+  "prompts": {
+    "907d238677cc634d": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "9de4e99c-85ff-4fdc-a753-d86b985cde7c",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 56,
+      "total_deletions": 28,
+      "accepted_lines": 48,
+      "overriden_lines": 0
+    },
+    "b7fa0c7cc299efe7": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dfae21f9-27cf-4aa3-86ac-3e435d611f50",
+        "model": "unknown"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
