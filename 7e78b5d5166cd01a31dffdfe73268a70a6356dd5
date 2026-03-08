@@ -1,0 +1,23 @@
+public/newmetric/pebble/README.md
+  9505e5544c77edda 12,18,30-40,42-43,47,49,51-58,60-68,70-71,75,77-79,85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "7e78b5d5166cd01a31dffdfe73268a70a6356dd5",
+  "prompts": {
+    "9505e5544c77edda": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "5ebe185e-07ca-4952-92d6-10eb902f7772",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 18,
+      "accepted_lines": 43,
+      "overriden_lines": 1
+    }
+  }
+}
