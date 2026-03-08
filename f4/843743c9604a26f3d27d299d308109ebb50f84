@@ -1,0 +1,39 @@
+public/newmetric/pebble/README.md
+  9505e5544c77edda 12,18,30-40,42-43,47,49,51-57,60-68,70-71,75,77-79,85
+public/newmetric/cache/README.md
+  9505e5544c77edda 15
+  907d238677cc634d 3-6,8-10,18,23,33,58,64,66,80,86,88-91,93-120,122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "f4843743c9604a26f3d27d299d308109ebb50f84",
+  "prompts": {
+    "907d238677cc634d": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "9de4e99c-85ff-4fdc-a753-d86b985cde7c",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 56,
+      "total_deletions": 28,
+      "accepted_lines": 48,
+      "overriden_lines": 0
+    },
+    "9505e5544c77edda": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "5ebe185e-07ca-4952-92d6-10eb902f7772",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 18,
+      "accepted_lines": 41,
+      "overriden_lines": 0
+    }
+  }
+}
