@@ -155,8 +155,8 @@
       stats: "author · ★17",
       about-ko: "cdb(cr.yp.to) 64비트 오프셋 확장 Rust 구현체.",
       about-en: "Rust implementation of cdb (cr.yp.to) with 64-bit offset extension.",
-      contrib-ko: "C FFI·Python(PyO3)·Node(napi) 바인딩 제공.",
-      contrib-en: "C FFI, Python (PyO3), Node (napi) bindings.",
+      contrib-ko: "기능 구현·바인딩·테스트·문서화 담당. 정해진 스펙에 따라 구현을 수행하고 호환성 및 테스트를 검증함.",
+      contrib-en: "Implemented features, bindings, tests, and documentation. Performed implementation according to provided specs and validated compatibility and tests.",
     ),
     (
       project: "InjectiveLabs/cosmos-sdk",
