@@ -36,26 +36,38 @@
       body-ko: [
         분산 KV 스토리지 시스템 전체를 처음부터 설계·구현 및 운영.
 
-        - #link("https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache")[수평 확장이 불가능한 단일 노드 구조를 수평 확장 가능하게 전환 — 동일 하드웨어 기존 구현 대비 17.5× 처리량 개선 (약 140k ops/s, p90 26.1ms; 프로덕션 spike 패턴 트래픽 기준).]
-          write(주기적 batch)·read(상시 고빈도) 비대칭 워크로드에서 lock-based in-memory 프로토타입이 경합 한계를 드러냄을 계측 후, lock-free 기반 MVCC 캐시 레이어를 설계·구현:
+        - #link(
+            "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache",
+          )[수평 확장이 불가능한 단일 노드 구조를 수평 확장 가능하게 전환 — 동일 하드웨어 기존 구현 대비 17.5× 처리량 개선 (약 140k ops/s, p90 26.1ms; 프로덕션 spike 패턴 트래픽 기준).]
+          write(주기적 batch)·read(상시 고빈도) 비대칭 워크로드에서 벤치마크·프로파일링으로 lock-based in-memory 프로토타입의 경합 병목을 확인한 뒤, lock-free 기반 MVCC 캐시 레이어를 설계·구현:
           - lock-free arena skiplist MVCC — write lock 없이 read/write를 동시 처리. 메모리 상한 도달 시 ring-buffer 방식의 슬롯 관리와 atomic reference counting으로 진행 중인 읽기의 snapshot consistency를 보장하면서 arena를 안전하게 교체.
-          - sparse key space에서 range query 캐시 정합성 확보 — 이미 fetch한 구간 정보를 별도 인덱스로 추적해 불필요한 DB 재조회를 방지.
+          - sparse key space에서 range query 캐시 정합성 확보 — 이미 조회한 구간 정보를 별도 인덱스로 추적해 불필요한 DB 재조회를 방지.
         - 기존 time travel query 구현에서 각 버전을 독립 저장하는 구조상 iterator가 버전 경계마다 tombstone을 전부 스캔해야 하는 비효율을 copy-on-write 스냅샷 체크포인트 도입으로 해소 — 주기적 기준점을 확보하고 체크포인트 사이 버전은 delta merge-on-read로 서빙해, 스캔 비용과 스토리지 풋프린트를 함께 최소화.
-        - #link("https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble")[Pebble iterator latency가 기준치(494µs–2ms) 대비 10–50×로 급등(22–26ms) — 실제 레코드 1,120개를 읽어야 하는 쿼리에서 iterator stats의 point count가 213,040으로 폭증함을 먼저 확인한 뒤 compaction picker 소스를 직접 추적해 move compaction 조건에서 tombstone이 미처리인 채 L6에 누적되는 구조와, snapshot 보존 설정이 elision-only compaction을 차단하는 상호작용을 식별. L6 tombstone 전용 compaction을 적용해 정상 latency로 복구.]
+        - #link(
+            "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble",
+          )[Pebble iterator latency가 기준치(494µs–2ms) 대비 10–50×로 급등(22–26ms) — 실제 레코드 1,120개를 읽어야 하는 쿼리에서 iterator stats의 point count가 213,040으로 폭증함을 먼저 확인한 뒤 compaction picker 소스를 직접 추적해 move compaction 조건에서 tombstone이 미처리인 채 L6에 누적되는 구조와, snapshot 보존 설정이 elision-only compaction을 차단하는 상호작용을 식별. L6 tombstone 전용 compaction을 적용해 정상 latency로 복구.]
         - arbitrary computation에 대한 partial·stateless 검증이 가능한 데이터 구조 설계 및 구현.
-        - #link("https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem")[약 18건의 프로덕션 장애 postmortem — 증상이 아닌 원인 수준까지 추적: Fiber 메모리 풀 재사용 + 비동기 채널 타이밍으로 인한 캐시 키 변조, Pebble WAL 오염으로 인한 무한 재시작 루프 등.]
+        - #link(
+            "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem",
+          )[약 18건의 프로덕션 장애 postmortem — 증상이 아닌 원인 수준까지 추적: Fiber 메모리 풀 재사용 + 비동기 채널 타이밍으로 인한 캐시 키 변조, Pebble WAL 오염으로 인한 무한 재시작 루프 등.]
       ],
       body-en: [
         Designed and built a distributed KV storage system from the ground up.
 
-        - #link("https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache")[Converted a non-horizontally-scalable single-node architecture into a horizontally scalable one — 17.5× throughput improvement over prior implementation on identical hardware (≈140k ops/s, p90 26.1ms under production spike-pattern traffic).]
-          Under write-batch / continuous-read asymmetric workloads, a lock-based in-memory prototype revealed contention limits through profiling; designed and implemented a lock-free MVCC cache layer:
+        - #link(
+            "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache",
+          )[Converted a non-horizontally-scalable single-node architecture into a horizontally scalable one — 17.5× throughput improvement over prior implementation on identical hardware (≈140k ops/s, p90 26.1ms under production spike-pattern traffic).]
+          Under write-batch / continuous-read asymmetric workloads, benchmarking and profiling confirmed a lock-based in-memory prototype as the contention bottleneck; designed and implemented a lock-free MVCC cache layer:
           - Lock-free arena skiplist MVCC — concurrent read/write without write locks. On memory limit: ring-buffer slot management with atomic reference counting ensures snapshot consistency for in-flight reads while safely rotating arenas.
           - Sparse key space cache coherence for range queries — a dedicated index tracks which ranges have already been fetched to prevent redundant DB reads.
         - The existing time travel query implementation stored each version independently, forcing iterators to scan tombstones across every version boundary; replaced with CoW snapshot checkpoints as periodic baselines and delta merge-on-read for intermediate versions — minimising both scan overhead and storage footprint.
-        - #link("https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble")[Pebble iterator latency spiked 10–50× over baseline (494µs–2ms) to 22–26ms — a query reading 1,120 records showed point count of 213,040 in iterator stats, revealing excessive tombstone scanning; traced the compaction picker source to find tombstones accumulating in L6 unprocessed under move compaction conditions and snapshot retention blocking elision-only compaction. Applied L6-tombstone-targeted compaction to restore normal latency.]
+        - #link(
+            "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble",
+          )[Pebble iterator latency spiked 10–50× over baseline (494µs–2ms) to 22–26ms — a query reading 1,120 records showed point count of 213,040 in iterator stats, revealing excessive tombstone scanning; traced the compaction picker source to find tombstones accumulating in L6 unprocessed under move compaction conditions and snapshot retention blocking elision-only compaction. Applied L6-tombstone-targeted compaction to restore normal latency.]
         - Designed and implemented a data structure enabling partial, stateless verification of arbitrary computation.
-        - #link("https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem")[Root-cause analysis across ~18 production incidents: Fiber memory-pool reuse + async channel timing corrupting cache keys; Pebble WAL corruption causing an infinite restart loop; etc.]
+        - #link(
+            "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem",
+          )[Root-cause analysis across ~18 production incidents: Fiber memory-pool reuse + async channel timing corrupting cache keys; Pebble WAL corruption causing an infinite restart loop; etc.]
       ],
     ),
     (
