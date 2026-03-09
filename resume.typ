@@ -79,6 +79,7 @@
 // OPEN SOURCE
 // ─────────────────────────────────────────────────────────────────────────────
 
+#pagebreak()
 #section("Open Source", lang: "en")
 
 #oss-table(metadata.oss, lang: "en")

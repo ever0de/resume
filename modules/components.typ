@@ -121,7 +121,7 @@
         let contrib = if lang == "ko" { item.contrib-ko } else { item.contrib-en }
         (
           table.cell[
-            #link("https://github.com/" + item.repo)[
+            #link(item.url)[
               #text(size: 8pt, weight: 700, fill: accent)[#item.project]
             ]
             #linebreak()

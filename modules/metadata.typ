@@ -17,7 +17,7 @@
   ),
   bio: (
     ko: "시스템 내부가 실제로 어떻게 작동하는지 파고드는 것을 즐기는 프로그래머입니다.",
-    en: "A programmer who finds joy in digging all the way down until the internals make sense.",
+    en: "A programmer who enjoys digging into how systems actually work under the hood.",
   ),
   skills: (
     (label-ko: "언어", label-en: "Languages", value: "Rust, Go, TypeScript"),
@@ -32,31 +32,30 @@
       org-en: "Newmetric",
       period-ko: "2023년 3월 – 2026년 3월",
       period-en: "Mar 2023 – Mar 2026",
-      tags: ("Rust", "Go", "gRPC", "k8s", "pebble"),
+      tags: ("Rust", "Go", "gRPC", "pebble"),
       body-ko: [
-        블록체인 RPC 인프라 및 분산 KV 스토어 설계·구현. 노드 소프트웨어부터 배포 자동화까지 백엔드 전반 담당.
+        분산 KV 스토리지 시스템 전체를 처음부터 설계·구현 및 운영.
 
-        - 읽기/쓰기 노드 분리로 lock contention 제거 — 수평 확장이 불가능한 단일 노드 구조를 수평 확장 가능하게 전환.
-          - hard memory limit을 가진 arena-skiplist 기반 lock-free MVCC 인메모리 KV 캐시 구현 — ring-buffer RotatePool로 슬롯 관리, range_history 기반 iterator range 캐시 지원.
-          - CoW 스냅샷 체크포인트 + change sets 기반 merge on read로 time travel query 지원 — 읽기 빈도가 낮은 과거 height 상태를 change sets merge sort로 제공하여 스토리지 풋프린트 최소화.
-          - 벤치마크: initia 메인넷 Day 1 약 140k ops/s, p90 = 26.1ms (동일 하드웨어 바닐라 노드 대비 17.5배 개선).
-        - 네트워크 레이어에 이벤트 기반 비동기 네트워킹 도입 — zero-allocation 패킷 처리로 GC 압력 최소화.
-        - cosmos-sdk의 멤풀을 Signer 기반 샤딩 멤풀으로 교체하여 CheckTx/RecheckTx 병렬화.
-        - Sparse Merkle Tree witness 추출 + partial state re-execution 기반 L1↔L2 stateless verification 구현.
-        - cosmos-sdk용 mainnet fork node 구현 (layered CoW DB 기반 height-level state fork).
-        - 온체인 거버넌스 업그레이드 감지·rolling restart 자동화 Kubernetes operator 개발.
-        - actions-runner-controller 기반 self-hosted GitHub Actions runner 5대 이상 운영.
+        - 수평 확장이 불가능한 단일 노드 구조를 수평 확장 가능하게 전환 — 동일 하드웨어 기존 구현 대비 17.5× 처리량 개선 (약 140k ops/s, p90 26.1ms; 프로덕션 spike 패턴 트래픽 기준).
+          write(주기적 batch)·read(상시 고빈도) 비대칭 워크로드에서 lock-based in-memory 프로토타입이 경합 한계를 드러냄을 계측 후, lock-free arena skiplist 기반 MVCC 캐시 레이어를 설계·구현:
+          - lock-free arena skiplist MVCC — write lock 없이 read/write를 동시 처리. 메모리 상한 도달 시 ring-buffer 방식의 슬롯 관리와 atomic reference counting으로 진행 중인 읽기의 snapshot consistency를 보장하면서 arena를 안전하게 교체.
+          - sparse key space에서 range query 캐시 정합성 확보 — 이미 fetch한 구간 정보를 별도 인덱스로 추적해 불필요한 DB 재조회를 방지.
+        - 기존 time travel query 구현에서 각 버전을 독립 저장하는 구조상 iterator가 버전 경계마다 tombstone을 전부 스캔해야 하는 비효율을 copy-on-write 스냅샷 체크포인트 도입으로 해소 — 주기적 기준점을 확보하고 체크포인트 사이 버전은 delta merge-on-read로 서빙해, 스캔 비용과 스토리지 풋프린트를 함께 최소화.
+        - Pebble iterator latency가 기준치(494µs–2ms) 대비 10–50×로 급등(22–26ms) — 실제 레코드 1,120개를 읽어야 하는 쿼리에서 iterator stats의 point count가 213,040으로 폭증함을 먼저 확인한 뒤 compaction picker 소스를 직접 추적해 move compaction 조건에서 tombstone이 미처리인 채 L6에 누적되는 구조와, snapshot 보존 설정이 elision-only compaction을 차단하는 상호작용을 식별. L6 tombstone 전용 compaction을 적용해 정상 latency로 복구.
+        - arbitrary computation에 대한 partial·stateless 검증이 가능한 데이터 구조 설계 및 구현.
+        - 약 18건의 프로덕션 장애 postmortem — 증상이 아닌 원인 수준까지 추적: Fiber 메모리 풀 재사용 + 비동기 채널 타이밍으로 인한 캐시 키 변조, Pebble WAL 오염으로 인한 무한 재시작 루프 등.
       ],
       body-en: [
-        - Read/write node split: eliminated lock contention and enabled horizontal scaling of a previously non-scalable single-node architecture.
-          - Implemented a lock-free MVCC in-memory KV cache on an arena-skiplist with a hard memory limit — ring-buffer RotatePool for slot management; iterator range cache via range_history.
-          - Time travel queries via CoW snapshot checkpoints + merge-on-read over change sets — low-frequency historical height reads served by merge-sorting change sets, minimizing storage footprint.
-          - Benchmark: initia mainnet Day 1 ≈140k ops/s, p90 = 26.1ms (17.5× improvement vs single-node vanilla on identical hardware).
-        - Adopted event-driven async networking for zero-allocation packet handling and GC pressure reduction.
-        - Replaced the cosmos-sdk mempool with a Signer-based sharded mempool for parallel CheckTx/RecheckTx processing.
-        - L1↔L2 stateless verification via sparse Merkle tree witness extraction + partial state re-execution.
-        - cosmos-sdk mainnet fork node: height-level state fork via layered CoW DB.
-        - k8s operator for on-chain governance upgrade detection and rolling restarts; 5+ self-hosted CI runners.
+        Designed and built a distributed KV storage system from the ground up.
+
+        - Converted a non-horizontally-scalable single-node architecture into a horizontally scalable one — 17.5× throughput improvement over prior implementation on identical hardware (≈140k ops/s, p90 26.1ms under production spike-pattern traffic).
+          Under write-batch / continuous-read asymmetric workloads, a lock-based in-memory prototype revealed contention limits through profiling; designed and implemented a lock-free arena skiplist MVCC cache layer:
+          - Lock-free arena skiplist MVCC — concurrent read/write without write locks. On memory limit: ring-buffer slot management with atomic reference counting ensures snapshot consistency for in-flight reads while safely rotating arenas.
+          - Sparse key space cache coherence for range queries — a dedicated index tracks which ranges have already been fetched to prevent redundant DB reads.
+        - The existing time travel query implementation stored each version independently, forcing iterators to scan tombstones across every version boundary; replaced with CoW snapshot checkpoints as periodic baselines and delta merge-on-read for intermediate versions — minimising both scan overhead and storage footprint.
+        - Pebble iterator latency spiked 10–50× over baseline (494µs–2ms) to 22–26ms — a query reading 1,120 records showed point count of 213,040 in iterator stats, revealing excessive tombstone scanning; traced the compaction picker source to find tombstones accumulating in L6 unprocessed under move compaction conditions and snapshot retention blocking elision-only compaction. Applied L6-tombstone-targeted compaction to restore normal latency.
+        - Designed and implemented a data structure enabling partial, stateless verification of arbitrary computation.
+        - Root-cause analysis across ~18 production incidents: Fiber memory-pool reuse + async channel timing corrupting cache keys; Pebble WAL corruption causing an infinite restart loop; etc.
       ],
     ),
     (
@@ -68,20 +67,18 @@
       period-en: "Oct 2021 – Feb 2023",
       tags: ("Rust", "Go", "TypeScript"),
       body-ko: [
-        - 파츠 우선순위 순서대로 개별 아이템 이미지를 SVG로 레이어 합성 후 PNG 렌더링하는 이미지 서버 구현 — equip/unequip 요청 시 즉시 PNG 재생성.
-        - ImmutableX L2 on-chain 이벤트 폴링 기반 배치 job으로 토큰 민팅 상태 인덱싱 — treasury burn 감지 후 상태 전이로 ERC721 burn-and-redeem 처리 보장.
-        - Fastify 기반 REST API 서버 구현 — crafting(equip/unequip 트랜잭션), 메타데이터 관리, on-chain 서명 검증 포함.
-        - JS로 구현된 PFP 이미지 생성기의 성능 문제(수 시간 소요)를 Rust로 재구현 — 병렬 스레드풀 이용으로 생성 시간을 분 단위로 단축.
-        - Flow 블록체인 + Cadence 스마트 컨트랙트 기반 마켓플레이스 서버 구현 — on-chain 이벤트 폴링 기반 indexer로 최신 블록 이벤트를 MySQL에 적재하고 Fastify API 서버로 서빙.
-        - 다중 체인 간 자산 이전을 위한 bridge 백엔드 아키텍처 설계 및 구현.
+        - 파츠 우선순위에 따라 개별 레이어 이미지를 SVG로 합성 후 PNG로 렌더링하는 이미지 서버 구현 — 아이템 장착·해제 요청마다 즉시 재렌더링.
+        - 외부 서버의 이벤트를 폴링해 정제한 뒤 MySQL에 적재하는 인덱서 구현 — 이벤트 상태 전이 기반으로 처리 보장.
+        - Fastify 기반 REST API 서버 구현 — 아이템 조합 트랜잭션, 메타데이터 관리, 서명 검증 포함.
+        - JS로 구현된 이미지 조합기의 성능 문제(수 시간 소요)를 Rust로 재구현 — 병렬 스레드풀로 생성 시간을 분 단위로 단축.
+        - 마켓플레이스 서버 구현 — 외부 서버 이벤트를 폴링해 정제·가공 후 MySQL에 적재하는 인덱서와 Fastify API 서버로 데이터 서빙.
       ],
       body-en: [
-        - Built a real-time image compositing server: stacks individual partz images as SVG layers in priority order, renders to PNG on demand; image regenerated on each equip/unequip request.
-        - Implemented an ImmutableX L2 batch job polling on-chain events to index token mint state — detects treasury burns and drives an ERC721 burn-and-redeem state transition to guarantee delivery.
-        - Built a Fastify REST API server covering crafting transactions (equip/unequip), metadata management, and on-chain signature verification.
-        - Rewrote a JS PFP image generator (hours-long runtime) in Rust — thread-pool-based parallel layer compositing reduced generation time from hours to minutes.
-        - Built a marketplace server for a Flow blockchain + Cadence smart-contract platform — implemented an on-chain event polling indexer that stores the latest block events in MySQL, served via a Fastify API server.
-        - Designed and implemented a cross-chain bridge backend architecture for multi-chain asset transfer.
+        - Built an image compositing server: stacks individual layer images as SVG in priority order, renders to PNG on demand; re-renders on every item equip/unequip action.
+        - Implemented an event-polling indexer against an external server — refines and ingests events into MySQL with state-machine-based delivery guarantees.
+        - Built a Fastify REST API server covering item crafting transactions, metadata management, and signature verification.
+        - Rewrote a JS image compositor (hours-long runtime) in Rust — thread-pool-based parallel compositing reduced generation time from hours to minutes.
+        - Built a marketplace server: event-polling indexer that refines and ingests external server events into MySQL, served via a Fastify API.
       ],
     ),
     (
@@ -113,6 +110,7 @@
     (
       project: "RustPython",
       repo: "RustPython/RustPython",
+      url: "https://github.com/RustPython/RustPython/commits/main/?author=ever0de",
       period-ko: "2025.07 – 현재",
       period-en: "Jul 2025 – Present",
       tags: ("Rust", "Python"),
@@ -125,18 +123,20 @@
     (
       project: "python/cpython",
       repo: "python/cpython",
+      url: "https://github.com/python/cpython/pull/136538",
       period-ko: "2025.10",
       period-en: "Oct 2025",
       tags: ("C", "Python"),
       stats: "★71.8k · 1 PR",
       about-ko: "CPython 공식 저장소.",
       about-en: "The official CPython repository.",
-      contrib-ko: "test_class.py의 Py_TPFLAGS_MANAGED_DICT 상수 오류 수정 (#136538).",
+      contrib-ko: "test_class.py의 Py_TPFLAGS_MANAGED_DICT 상수 잘못된 레이블 수정 (#136538).",
       contrib-en: "Fixed Py_TPFLAGS_MANAGED_DICT constant mislabeled in test_class.py (#136538).",
     ),
     (
       project: "GlueSQL",
       repo: "gluesql/gluesql",
+      url: "https://github.com/gluesql/gluesql/commits/main/?author=ever0de",
       period-ko: "2021.08 – 2024.11",
       period-en: "Aug 2021 – Nov 2024",
       tags: ("Rust",),
@@ -149,6 +149,7 @@
     (
       project: "cdb64-rs",
       repo: "ever0de/cdb64-rs",
+      url: "https://github.com/ever0de/cdb64-rs",
       period-ko: "2024 – 현재",
       period-en: "2024 – Present",
       tags: ("Rust",),
@@ -156,11 +157,12 @@
       about-ko: "cdb(cr.yp.to) 64비트 오프셋 확장 Rust 구현체.",
       about-en: "Rust implementation of cdb (cr.yp.to) with 64-bit offset extension.",
       contrib-ko: "기능 구현·바인딩·테스트·문서화 담당. 정해진 스펙에 따라 구현을 수행하고 호환성 및 테스트를 검증함.",
-      contrib-en: "Implemented features, bindings, tests, and documentation. Performed implementation according to provided specs and validated compatibility and tests.",
+      contrib-en: "Implemented features, bindings, tests, and documentation. Implemented according to provided specs; validated compatibility and tests.",
     ),
     (
       project: "InjectiveLabs/cosmos-sdk",
       repo: "InjectiveLabs/cosmos-sdk",
+      url: "https://github.com/InjectiveLabs/cosmos-sdk/pull/77",
       period-ko: "2025.09 – 2025.10",
       period-en: "Sep – Oct 2025",
       tags: ("Go",),
@@ -173,6 +175,7 @@
     (
       project: "cockroachdb/pebble",
       repo: "cockroachdb/pebble",
+      url: "https://github.com/cockroachdb/pebble/pull/5458",
       period-ko: "2025.10",
       period-en: "Oct 2025",
       tags: ("Go",),
@@ -185,6 +188,7 @@
     (
       project: "stc",
       repo: "dudykr/stc",
+      url: "https://github.com/dudykr/stc/commits/main/?author=ever0de",
       period-ko: "2022.11",
       period-en: "Nov 2022",
       tags: ("Rust", "TypeScript"),
@@ -197,6 +201,7 @@
     (
       project: "apache/opendal",
       repo: "apache/opendal",
+      url: "https://github.com/apache/opendal/pull/5388",
       period-ko: "2024.12",
       period-en: "Dec 2024",
       tags: ("Rust",),
@@ -209,6 +214,7 @@
     (
       project: "tree-sitter-go-mod",
       repo: "camdencheek/tree-sitter-go-mod",
+      url: "https://github.com/camdencheek/tree-sitter-go-mod/issues/16",
       period-ko: "2023.12 – 2024.06",
       period-en: "Dec 2023 – Jun 2024",
       tags: ("Rust",),
@@ -221,6 +227,7 @@
     (
       project: "simperby",
       repo: "postech-dao/simperby",
+      url: "https://github.com/postech-dao/simperby/commits/main/?author=ever0de",
       period-ko: "2023.03",
       period-en: "Mar 2023",
       tags: ("Rust",),
@@ -233,6 +240,7 @@
     (
       project: "sqlparser-rs",
       repo: "sqlparser-rs/sqlparser-rs",
+      url: "https://github.com/sqlparser-rs/sqlparser-rs/pull/334",
       period-ko: "2021.08",
       period-en: "Aug 2021",
       tags: ("Rust",),
