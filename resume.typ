@@ -30,6 +30,7 @@
 )
 #set par(leading: 0.62em)
 #show heading: set block(above: 1.0em, below: 0.4em)
+#show link: it => text(fill: accent)[#it]
 
 // ─────────────────────────────────────────────────────────────────────────────
 // HEADER

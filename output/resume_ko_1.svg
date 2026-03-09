@@ -37,26 +37,26 @@
                         <g class="typst-group">
                             <g>
                                 <g class="typst-text" transform="matrix(1 0 0 -1 465.5438184362697 53.75335968257874)">
-                                    <use xlink:href="#g2A350696931BBA1946D5B140ED7E7A8F" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g963BC682036C81965D5C2B8F1F72622F" x="1.85107421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6D4856B83E258B76B428628B41A23F0A" x="3.7021484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2478DD3CD04BBBF8FAEB50DDDCAF080F" x="7.9189453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g416F241BFB30A45B4A4C5337BAE5DA4F" x="12.6171875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g39AEA3879CF6CA9CC60C64E03B221E68" x="17.43994140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB7CF775BDDCD0D9BEE6042758CF7197D" x="21.8310546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB8D34C3AA36AAE8389ACFFE3FC493C70" x="23.9892578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2478DD3CD04BBBF8FAEB50DDDCAF080F" x="29.01123046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1768FAEF6072A12A60800847B16839E0" x="33.568359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1F76AEB250A369C56020B1C147B60FFF" x="38.0673828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g12E28F9EA22C4283AA2153891470C3B8" x="45.54638671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gDCC7F6B1EA5D749C7B8118373AE0D548" x="50.46875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gD556C8FF631A7761DD4CDC35FE8667B" x="57.5576171875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g963BC682036C81965D5C2B8F1F72622F" x="62.1064453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gADC0290A7F9BDB3C7A1CD0295BECB717" x="63.95751953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB7CF775BDDCD0D9BEE6042758CF7197D" x="65.80859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g7BDAF156C642A0E2E928BA457AE31311" x="67.966796875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g416F241BFB30A45B4A4C5337BAE5DA4F" x="72.4658203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gDCC7F6B1EA5D749C7B8118373AE0D548" x="77.28857421875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                    <use xlink:href="#g2A350696931BBA1946D5B140ED7E7A8F" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g963BC682036C81965D5C2B8F1F72622F" x="1.85107421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g6D4856B83E258B76B428628B41A23F0A" x="3.7021484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g2478DD3CD04BBBF8FAEB50DDDCAF080F" x="7.9189453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g416F241BFB30A45B4A4C5337BAE5DA4F" x="12.6171875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g39AEA3879CF6CA9CC60C64E03B221E68" x="17.43994140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#gB7CF775BDDCD0D9BEE6042758CF7197D" x="21.8310546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#gB8D34C3AA36AAE8389ACFFE3FC493C70" x="23.9892578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g2478DD3CD04BBBF8FAEB50DDDCAF080F" x="29.01123046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g1768FAEF6072A12A60800847B16839E0" x="33.568359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g1F76AEB250A369C56020B1C147B60FFF" x="38.0673828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g12E28F9EA22C4283AA2153891470C3B8" x="45.54638671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#gDCC7F6B1EA5D749C7B8118373AE0D548" x="50.46875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#gD556C8FF631A7761DD4CDC35FE8667B" x="57.5576171875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g963BC682036C81965D5C2B8F1F72622F" x="62.1064453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#gADC0290A7F9BDB3C7A1CD0295BECB717" x="63.95751953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#gB7CF775BDDCD0D9BEE6042758CF7197D" x="65.80859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g7BDAF156C642A0E2E928BA457AE31311" x="67.966796875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#g416F241BFB30A45B4A4C5337BAE5DA4F" x="72.4658203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                    <use xlink:href="#gDCC7F6B1EA5D749C7B8118373AE0D548" x="77.28857421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                 </g>
                                 <a transform="matrix(1 0 0 1 465.5438184362697 45.108594057578735)" href="mailto:jiseok.dev@gmail.com" xlink:href="mailto:jiseok.dev@gmail.com">
                                     <rect width="84.37744140625" height="11.279765625" fill="transparent" stroke="none"/>
@@ -386,123 +386,145 @@
                         </g>
                         <g class="typst-group">
                             <g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 24.833593750000002)">
-                                    <use xlink:href="#gEB2357A658D721747005BEA4CCF2EB72" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g8FA56278C7F1535BD46C70FC1FEEC486" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g9D3B713A79171AAC7C73B8A3AE6E199E" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g9B402F0CBF675556C6934795E3C7D3AD" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gAB664179AC680CFFEBB6C0A426848367" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="54.03125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2B795074D9C477563861C4E660BDC205" x="62.24169921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="70.4521484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g7238A0FF1136A9BF003C8F05B41980A2" x="81.046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEB928C6FD1217A447F82F5CF4013C60C" x="89.25732421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gD01A21B5A9881C2B7315514FE3299858" x="99.85205078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC2F162BDEC4C699A1BAB601DA75AEFDD" x="108.0625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="118.6572265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="126.86767578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gFA1269E559E97B0934748ED7BBEE5ED" x="135.078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEB2357A658D721747005BEA4CCF2EB72" x="145.6728515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g8FA56278C7F1535BD46C70FC1FEEC486" x="153.88330078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g9D3B713A79171AAC7C73B8A3AE6E199E" x="164.47802734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g9B402F0CBF675556C6934795E3C7D3AD" x="172.6884765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="183.283203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2B795074D9C477563861C4E660BDC205" x="191.49365234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="199.7041015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g71B3BEE33EF29AD7E8678EF887EE9C48" x="207.91455078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g663DA80E8D0B311EF590DB5B43646068" x="218.50927734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gD68D1789AECB275636029EE4149FFE94" x="226.7197265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC5AF3DF5EAC3D11031B76B56E7DD2B7C" x="237.314453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g949C09516E3C50D9EEE9433A3A7409F4" x="248.79052734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEB928C6FD1217A447F82F5CF4013C60C" x="257.0009765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="267.595703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC2F162BDEC4C699A1BAB601DA75AEFDD" x="275.80615234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g50DE2313764A52F05DA37810BEF668F4" x="284.0166015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g96AD9DEFB33509FA8855DAEFD975DC60" x="292.22705078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="302.82177734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gF3E539211F1E368E152001D9C94E3A48" x="311.0322265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="321.626953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1787003C9A8146C33082A03ADDBB9E2D" x="329.83740234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g821522DA8A213B31F1FA8262E7FBD9B" x="340.43212890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC2DF531F9B61E6E1972194E0E6B8F20E" x="348.642578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="359.2373046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g34AB4A88E028B253FA5647182F4A422A" x="363.40283203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="367.489501953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB00F9C309E3EC6103EC0ADDC3758A5E5" x="369.771728515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gDE60711CA4D7476E800DB51263BA159E" x="375.440185546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g89227BD0CC1572C008E8695C6A54F0F4" x="383.780517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="391.990966796875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gAE36D5CA1EDE88B3761601E87318846E" x="400.201416015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g609A6B40B651E2C909A49FB146E1BAB1" x="410.796142578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g941EB78D50EB3A6666977F3AE25556A2" x="419.006591796875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="429.601318359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g4F6155A00DAD6C4BD2C2DA9E94CABE85" x="432.839111328125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="443.433837890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="447.599365234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="453.527587890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 468.779541015625 24.833593750000002)">
-                                    <use xlink:href="#gADEA619641E199B5AA0E9E95F56FBAE6" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="7.2919921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="12.68212890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="18.18359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gFC5E8AC0864A021E9BF8F4B2DBB01BD1" x="22.896484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="26.0693359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="30.7822265625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                <g class="typst-group">
+                                    <g>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 24.833593750000002)">
+                                            <use xlink:href="#gEB2357A658D721747005BEA4CCF2EB72" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8FA56278C7F1535BD46C70FC1FEEC486" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9D3B713A79171AAC7C73B8A3AE6E199E" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9B402F0CBF675556C6934795E3C7D3AD" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAB664179AC680CFFEBB6C0A426848367" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="54.03125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2B795074D9C477563861C4E660BDC205" x="62.24169921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="70.4521484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7238A0FF1136A9BF003C8F05B41980A2" x="81.046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEB928C6FD1217A447F82F5CF4013C60C" x="89.25732421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD01A21B5A9881C2B7315514FE3299858" x="99.85205078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC2F162BDEC4C699A1BAB601DA75AEFDD" x="108.0625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="118.6572265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="126.86767578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gFA1269E559E97B0934748ED7BBEE5ED" x="135.078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEB2357A658D721747005BEA4CCF2EB72" x="145.6728515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8FA56278C7F1535BD46C70FC1FEEC486" x="153.88330078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9D3B713A79171AAC7C73B8A3AE6E199E" x="164.47802734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9B402F0CBF675556C6934795E3C7D3AD" x="172.6884765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="183.283203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2B795074D9C477563861C4E660BDC205" x="191.49365234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="199.7041015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g71B3BEE33EF29AD7E8678EF887EE9C48" x="207.91455078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g663DA80E8D0B311EF590DB5B43646068" x="218.50927734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD68D1789AECB275636029EE4149FFE94" x="226.7197265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC5AF3DF5EAC3D11031B76B56E7DD2B7C" x="237.314453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g949C09516E3C50D9EEE9433A3A7409F4" x="248.79052734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEB928C6FD1217A447F82F5CF4013C60C" x="257.0009765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="267.595703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC2F162BDEC4C699A1BAB601DA75AEFDD" x="275.80615234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g50DE2313764A52F05DA37810BEF668F4" x="284.0166015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g96AD9DEFB33509FA8855DAEFD975DC60" x="292.22705078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="302.82177734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gF3E539211F1E368E152001D9C94E3A48" x="311.0322265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="321.626953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1787003C9A8146C33082A03ADDBB9E2D" x="329.83740234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g821522DA8A213B31F1FA8262E7FBD9B" x="340.43212890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC2DF531F9B61E6E1972194E0E6B8F20E" x="348.642578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="359.2373046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g34AB4A88E028B253FA5647182F4A422A" x="363.40283203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="367.489501953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB00F9C309E3EC6103EC0ADDC3758A5E5" x="369.771728515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gDE60711CA4D7476E800DB51263BA159E" x="375.440185546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g89227BD0CC1572C008E8695C6A54F0F4" x="383.780517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="391.990966796875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAE36D5CA1EDE88B3761601E87318846E" x="400.201416015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g609A6B40B651E2C909A49FB146E1BAB1" x="410.796142578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g941EB78D50EB3A6666977F3AE25556A2" x="419.006591796875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="429.601318359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4F6155A00DAD6C4BD2C2DA9E94CABE85" x="432.839111328125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="443.433837890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="447.599365234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="453.527587890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 15.171796875000002)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache">
+                                            <rect width="459.186767578125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 468.779541015625 24.833593750000002)">
+                                            <use xlink:href="#gADEA619641E199B5AA0E9E95F56FBAE6" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="7.2919921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="12.68212890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="18.18359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gFC5E8AC0864A021E9BF8F4B2DBB01BD1" x="22.896484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="26.0693359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="30.7822265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 468.779541015625 15.171796875000002)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache">
+                                            <rect width="33.217529296875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                    </g>
                                 </g>
                                 <g class="typst-group">
                                     <g>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 37.440390625)">
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g66D0AD402513840788E09D26F143241" x="5.50146484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="11.32763671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="19.37109375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="24.94677734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="30.45751953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="32.067138671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="36.232666015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="44.155517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6B45CEF8AFE77DD9A1FCD4374D8D5431" x="48.868408203125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g66D0AD402513840788E09D26F143241" x="5.50146484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="11.32763671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="19.37109375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="24.94677734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="30.45751953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="32.067138671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="36.232666015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="44.155517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6B45CEF8AFE77DD9A1FCD4374D8D5431" x="48.868408203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 27.77859375)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache">
+                                            <rect width="53.664794921875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 63.257568359375 37.440390625)">
-                                            <use xlink:href="#gB82D78DFF4393EC521FB5E582CF75266" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g95FD6E8E8BCFEB9FCC698C68D9242FCF" x="16.4208984375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g170947BF6E32B2AA5849941213F53581" x="24.63134765625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB82D78DFF4393EC521FB5E582CF75266" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g95FD6E8E8BCFEB9FCC698C68D9242FCF" x="16.4208984375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g170947BF6E32B2AA5849941213F53581" x="24.63134765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 63.257568359375 27.77859375)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache">
+                                            <rect width="35.22607421875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 98.483642578125 37.440390625)">
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="4.712890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="10.21435546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gADEA619641E199B5AA0E9E95F56FBAE6" x="12.283203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="16.982177734375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="4.712890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="10.21435546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gADEA619641E199B5AA0E9E95F56FBAE6" x="12.283203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="16.982177734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 98.483642578125 27.77859375)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache">
+                                            <rect width="24.617431640625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 123.10107421875 37.440390625)">
-                                            <use xlink:href="#g8BBD40736CECB27D19E055B459F60EF1" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g9475DEC103B9DD84F36946ADF4F4DBB0" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7A8068FC95C6F8C22C123CF5F4085C9A" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gBEEDE42A5ACFEB0E8696DFF856D5A821" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gB78CB9E31BCE2136B4A6ED4DCE0F97F4" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC9A45DBE177FB022CF0B890D19C9A8B" x="54.03125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g41185EE3390DDF9CB8BDD8042F487076" x="62.24169921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="65.4794921875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8BBD40736CECB27D19E055B459F60EF1" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9475DEC103B9DD84F36946ADF4F4DBB0" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7A8068FC95C6F8C22C123CF5F4085C9A" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gBEEDE42A5ACFEB0E8696DFF856D5A821" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB78CB9E31BCE2136B4A6ED4DCE0F97F4" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC9A45DBE177FB022CF0B890D19C9A8B" x="54.03125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g41185EE3390DDF9CB8BDD8042F487076" x="62.24169921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="65.4794921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
-                                        <g class="typst-text" transform="matrix(1 0 0 -1 193.363037109375 37.440390625)">
-                                            <use xlink:href="#g754418145E926811D15D722FF9B2C7DE" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="7.384765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="10.7060546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="12.77490234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="15.952392578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="21.203369140625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                        <a transform="matrix(1 0 0 1 123.10107421875 27.77859375)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/cache">
+                                            <rect width="67.8916015625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 190.99267578125 37.440390625)">
+                                            <use xlink:href="#g754418145E926811D15D722FF9B2C7DE" x="2.38427734375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="9.76904296875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="13.09033203125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="15.1591796875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="18.336669921875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="23.587646484375" y="0" fill="#000000" fill-rule="nonzero"/>
                                         </g>
-                                        <g class="typst-text" transform="matrix(1 0 0 -1 217.80419921875 37.440390625)">
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 217.818115234375 37.440390625)">
                                             <use xlink:href="#gF51097860D5C21CE8A113839E0A2B071" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="16.4208984375" y="0" fill="#000000" fill-rule="nonzero"/>
                                         </g>
-                                        <g class="typst-text" transform="matrix(1 0 0 -1 244.81982421875 37.440390625)">
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 244.833740234375 37.440390625)">
                                             <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="5.61279296875" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="10.69677734375" y="0" fill="#000000" fill-rule="nonzero"/>
@@ -516,7 +538,7 @@
                                             <use xlink:href="#gC558DE38090E91594288F46EFAACB9BC" x="43.39013671875" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="49.0029296875" y="0" fill="#000000" fill-rule="nonzero"/>
                                         </g>
-                                        <g class="typst-text" transform="matrix(1 0 0 -1 297.060546875 37.440390625)">
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 297.074462890625 37.440390625)">
                                             <use xlink:href="#g7D4A10D3AAB0A4F35403D16F826BDE3D" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#g5CB77FD8F0B37F3BB2A52F0B59EAECE9" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#gB901F3DCBF660769B60CE52801070835" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
@@ -533,7 +555,7 @@
                                             <use xlink:href="#g59B7FD70E4988C93441C393B24C8310A" x="108.916015625" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#g8B15C61A28E788F810CF98CD107F2034" x="117.12646484375" y="0" fill="#000000" fill-rule="nonzero"/>
                                         </g>
-                                        <g class="typst-text" transform="matrix(1 0 0 -1 424.78173828125 37.440390625)">
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 424.795654296875 37.440390625)">
                                             <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="2.06884765625" y="0" fill="#000000" fill-rule="nonzero"/>
                                             <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="7.458984375" y="0" fill="#000000" fill-rule="nonzero"/>
@@ -1116,355 +1138,445 @@
                                 <g class="typst-group">
                                     <g>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 150.90156249999998)">
-                                            <use xlink:href="#gF716523BACEC9C2403F020FFEA31E44F" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="5.691650390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="10.942626953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="16.555419921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="22.168212890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="24.237060546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="31.872314453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.941162109375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="37.11865234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="42.36962890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="45.686279296875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="50.770263671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="53.94775390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="59.337890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="65.04345703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="67.1123046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="72.1962890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="75.373779296875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="80.624755859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="85.912841796875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE8DF9A472AFE3DD398D4143DC3969F6F" x="90.941162109375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gF716523BACEC9C2403F020FFEA31E44F" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="5.691650390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="10.942626953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="16.555419921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="22.168212890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="24.237060546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="31.872314453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.941162109375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="37.11865234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="42.36962890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="45.686279296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="50.770263671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="53.94775390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="59.337890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="65.04345703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="67.1123046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="72.1962890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="75.373779296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="80.624755859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="85.912841796875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE8DF9A472AFE3DD398D4143DC3969F6F" x="90.941162109375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 141.239765625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="95.969482421875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 105.562255859375 150.90156249999998)">
-                                            <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC9A45DBE177FB022CF0B890D19C9A8B" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gB0FA1DDFF261A11944AB5BA689E71DEB" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="38.4638671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g66D0AD402513840788E09D26F143241" x="44.39208984375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="50.21826171875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g15290DB2CA677B2E67A637FFA4C3E698" x="56.146484375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC9A45DBE177FB022CF0B890D19C9A8B" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB0FA1DDFF261A11944AB5BA689E71DEB" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="38.4638671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g66D0AD402513840788E09D26F143241" x="44.39208984375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="50.21826171875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g15290DB2CA677B2E67A637FFA4C3E698" x="56.146484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 105.562255859375 141.239765625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="61.77783203125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 167.340087890625 150.90156249999998)">
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g53548351E382989F2A2E32A443E2B4C7" x="4.712890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="9.1845703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="14.76025390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="22.68310546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g41185EE3390DDF9CB8BDD8042F487076" x="27.39599609375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g53548351E382989F2A2E32A443E2B4C7" x="4.712890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="9.1845703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="14.76025390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="22.68310546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g41185EE3390DDF9CB8BDD8042F487076" x="27.39599609375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 167.340087890625 141.239765625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="33.01806640625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 200.358154296875 150.90156249999998)">
-                                            <use xlink:href="#g821522DA8A213B31F1FA8262E7FBD9B" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC2DF531F9B61E6E1972194E0E6B8F20E" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="22.970703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5D443A61B7B90DCB9B9D1184432D78DE" x="28.6298828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gB00F9C309E3EC6103EC0ADDC3758A5E5" x="33.1015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="38.77001953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gDE60711CA4D7476E800DB51263BA159E" x="44.42919921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="50.38525390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gCEFE3D51E81F08559D6F09AFF7BB873B" x="60.97998046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g62319907EB08160CE340F478496A244F" x="69.1904296875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="77.40087890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="80.638671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="86.21435546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5D443A61B7B90DCB9B9D1184432D78DE" x="91.7900390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="96.26171875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="101.83740234375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g821522DA8A213B31F1FA8262E7FBD9B" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC2DF531F9B61E6E1972194E0E6B8F20E" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="22.970703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5D443A61B7B90DCB9B9D1184432D78DE" x="28.6298828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB00F9C309E3EC6103EC0ADDC3758A5E5" x="33.1015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="38.77001953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gDE60711CA4D7476E800DB51263BA159E" x="44.42919921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="50.38525390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gCEFE3D51E81F08559D6F09AFF7BB873B" x="60.97998046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g62319907EB08160CE340F478496A244F" x="69.1904296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gBBF87639FC748E3AA259A1461B120184" x="77.40087890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="80.638671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="86.21435546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5D443A61B7B90DCB9B9D1184432D78DE" x="91.7900390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="96.26171875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="101.83740234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 200.358154296875 141.239765625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="107.66357421875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 308.021728515625 150.90156249999998)">
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="7.9228515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g41185EE3390DDF9CB8BDD8042F487076" x="12.6357421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7B768014EDF5FEE334BE152A5B6D9DC0" x="18.2578125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="7.9228515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g41185EE3390DDF9CB8BDD8042F487076" x="12.6357421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7B768014EDF5FEE334BE152A5B6D9DC0" x="18.2578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 308.021728515625 141.239765625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="29.73388671875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 337.755615234375 150.90156249999998)">
-                                            <use xlink:href="#gD84971992B41BCFEC76A716BD42CD991" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2E83291474D6C8E7BCCF81F1CF87B08F" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gA88F5BC09D29C236A5234489339A3B35" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g1FACB9D5FE4F93BF33F4ACFA7629DEE2" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC2F162BDEC4C699A1BAB601DA75AEFDD" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="49.592041015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="51.23876953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="55.404296875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="60.97998046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g609A6B40B651E2C909A49FB146E1BAB1" x="66.63916015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gFA1269E559E97B0934748ED7BBEE5ED" x="74.849609375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6620F8BE37C4CA934E24067EA79B4B28" x="85.4443359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g96AD9DEFB33509FA8855DAEFD975DC60" x="93.65478515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A6670C54A2CE8A51D9D90277EC3AAF8" x="101.865234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="112.4599609375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g31735550B876A33BF6BDE75DCCD8510F" x="120.67041015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gA58A52DFC49D6693DB2C05858908ABA6" x="131.26513671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="139.4755859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g59B7FD70E4988C93441C393B24C8310A" x="147.68603515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8B15C61A28E788F810CF98CD107F2034" x="155.896484375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD84971992B41BCFEC76A716BD42CD991" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2E83291474D6C8E7BCCF81F1CF87B08F" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA88F5BC09D29C236A5234489339A3B35" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1FACB9D5FE4F93BF33F4ACFA7629DEE2" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC2F162BDEC4C699A1BAB601DA75AEFDD" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="49.592041015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="51.23876953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="55.404296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="60.97998046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g609A6B40B651E2C909A49FB146E1BAB1" x="66.63916015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gFA1269E559E97B0934748ED7BBEE5ED" x="74.849609375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6620F8BE37C4CA934E24067EA79B4B28" x="85.4443359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g96AD9DEFB33509FA8855DAEFD975DC60" x="93.65478515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A6670C54A2CE8A51D9D90277EC3AAF8" x="101.865234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="112.4599609375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g31735550B876A33BF6BDE75DCCD8510F" x="120.67041015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA58A52DFC49D6693DB2C05858908ABA6" x="131.26513671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="139.4755859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g59B7FD70E4988C93441C393B24C8310A" x="147.68603515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8B15C61A28E788F810CF98CD107F2034" x="155.896484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 337.755615234375 141.239765625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="164.10693359375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                     </g>
                                 </g>
                                 <g class="typst-group">
                                     <g>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 163.50835937499997)">
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="2.06884765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="5.246337890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="10.497314453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="13.81396484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="18.89794921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="22.075439453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="27.465576171875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="33.171142578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="37.884033203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="41.112548828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="46.196533203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="49.332275390625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="2.06884765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="5.246337890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="10.497314453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="13.81396484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="18.89794921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="22.075439453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="27.465576171875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="33.171142578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="37.884033203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="41.112548828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="46.196533203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="49.332275390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 153.84656249999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="54.045166015625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 63.637939453125 163.50835937499997)">
-                                            <use xlink:href="#g9AB9980C7FF3AD89BDD33F45345CC271" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9AB9980C7FF3AD89BDD33F45345CC271" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 63.637939453125 153.84656249999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="10.5947265625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 74.232666015625 163.50835937499997)">
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.50146484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="10.8916015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="12.96044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="18.24853515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="23.861328125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="28.8896484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g72DDEC66E4C75DF7594D259AAE1B42AE" x="34.27978515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="39.53076171875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="44.81884765625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.50146484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="10.8916015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="12.96044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="18.24853515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="23.861328125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="28.8896484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g72DDEC66E4C75DF7594D259AAE1B42AE" x="34.27978515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="39.53076171875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="44.81884765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 74.232666015625 153.84656249999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="48.04736328125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 122.280029296875 163.50835937499997)">
-                                            <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="16.17041015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2F51539F6092AFE47CA94723AD53A7C4" x="20.3359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="25.990478515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="28.203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="33.8623046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="39.79052734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g3C81E6A79A7100045A3C855BDA809A05" x="45.44970703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="53.66015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g12196BF946CAC680CD3DD0A306495829" x="64.2548828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g33E3AD878EE57C2159924A2520348298" x="72.46533203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g22545699465F6632D2BAF37D54683B9A" x="80.67578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="88.88623046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6B478F944B5145863F4087BBB0FA4095" x="99.48095703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g4590AE738EF4EB12E9955A9EA663763E" x="107.69140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g9D3B713A79171AAC7C73B8A3AE6E199E" x="118.2861328125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="126.49658203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="134.70703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5CA1CFAF06C3DFDFCD634237C49C2D61" x="145.3017578125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2A5AAA741D36CFFA178EED0B7CF81A81" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD0D9DC595F817A2E090C1498A02C5317" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="16.17041015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2F51539F6092AFE47CA94723AD53A7C4" x="20.3359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="25.990478515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="28.203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g34BE917C6F4985822C4414E636F66615" x="33.8623046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g63C136FC782DAE846AB547805AD00C82" x="39.79052734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g3C81E6A79A7100045A3C855BDA809A05" x="45.44970703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="53.66015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g12196BF946CAC680CD3DD0A306495829" x="64.2548828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g33E3AD878EE57C2159924A2520348298" x="72.46533203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g22545699465F6632D2BAF37D54683B9A" x="80.67578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="88.88623046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6B478F944B5145863F4087BBB0FA4095" x="99.48095703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4590AE738EF4EB12E9955A9EA663763E" x="107.69140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9D3B713A79171AAC7C73B8A3AE6E199E" x="118.2861328125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="126.49658203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="134.70703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5CA1CFAF06C3DFDFCD634237C49C2D61" x="145.3017578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 122.280029296875 153.84656249999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="155.896484375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 278.176513671875 163.50835937499997)">
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.0283203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="10.41845703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="18.34130859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="23.8427734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="28.9267578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.955078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="37.18359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="39.25244140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="44.642578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="52.31494140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="57.81640625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="59.88525390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gADEA619641E199B5AA0E9E95F56FBAE6" x="64.91357421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="69.612548828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="74.863525390625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.0283203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="10.41845703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="18.34130859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="23.8427734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="28.9267578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.955078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="37.18359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="39.25244140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="44.642578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="52.31494140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="57.81640625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="59.88525390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gADEA619641E199B5AA0E9E95F56FBAE6" x="64.91357421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="69.612548828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="74.863525390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 278.176513671875 153.84656249999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="80.569091796875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 358.74560546875 163.50835937499997)">
-                                            <use xlink:href="#g2E2848EF572A8155239A7DA44E7E2DD5" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g96030F124C2C14BE12EC172A2312AFFF" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gFA1269E559E97B0934748ED7BBEE5ED" x="16.4208984375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g9EA52429908084099D6A694F0381EE6D" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g661C5054D8BDC82CB213227B4C5816A9" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g3D3752FF22F2B8B02F3199345E869986" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="54.03125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g230258EA58E8F6A4472F3C40DE112AB6" x="62.24169921875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2E2848EF572A8155239A7DA44E7E2DD5" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g96030F124C2C14BE12EC172A2312AFFF" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gFA1269E559E97B0934748ED7BBEE5ED" x="16.4208984375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9EA52429908084099D6A694F0381EE6D" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g661C5054D8BDC82CB213227B4C5816A9" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g3D3752FF22F2B8B02F3199345E869986" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="54.03125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g230258EA58E8F6A4472F3C40DE112AB6" x="62.24169921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 358.74560546875 153.84656249999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="72.83642578125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 431.58203125 163.50835937499997)">
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="7.9228515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g56F2B5DD9D7A0F536D340760B62E9DDE" x="13.12744140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="17.97021484375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="7.9228515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g56F2B5DD9D7A0F536D340760B62E9DDE" x="13.12744140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="17.97021484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 431.58203125 153.84656249999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="23.22119140625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                     </g>
                                 </g>
                                 <g class="typst-group">
                                     <g>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 176.11515624999998)">
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.0283203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="10.41845703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="18.34130859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="23.8427734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="28.9267578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.955078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="37.18359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="39.25244140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="44.642578125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.0283203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="10.41845703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="18.34130859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="23.8427734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="28.9267578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.955078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="37.18359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="39.25244140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="44.642578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="52.31494140625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 61.90771484375 176.11515624999998)">
-                                            <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gEF9697009C6052DDEAAC54A3744A1706" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g59B7FD70E4988C93441C393B24C8310A" x="16.4208984375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8B15C61A28E788F810CF98CD107F2034" x="24.63134765625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEF9697009C6052DDEAAC54A3744A1706" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g59B7FD70E4988C93441C393B24C8310A" x="16.4208984375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8B15C61A28E788F810CF98CD107F2034" x="24.63134765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 61.90771484375 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="35.22607421875" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 97.1337890625 176.11515624999998)">
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="3.177490234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="8.567626953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="16.490478515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="22.103271484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="26.816162109375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="29.99365234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="35.3837890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="40.671875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="3.177490234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="8.567626953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="16.490478515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="22.103271484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="26.816162109375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="29.99365234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="35.3837890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="40.671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 97.1337890625 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="45.9228515625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 143.056640625 176.11515624999998)">
-                                            <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g9DFACCBE40F010F82E3D7023CDAD7595" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g89227BD0CC1572C008E8695C6A54F0F4" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gFF7F6A817A2D3538D4CC97410325755E" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9DFACCBE40F010F82E3D7023CDAD7595" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g89227BD0CC1572C008E8695C6A54F0F4" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gFF7F6A817A2D3538D4CC97410325755E" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 143.056640625 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="56.41552734375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 199.47216796875 176.11515624999998)">
-                                            <use xlink:href="#g2435B3E41A35965EF60A42191703CF52" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="5.0654296875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2435B3E41A35965EF60A42191703CF52" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="5.0654296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 199.47216796875 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="10.8916015625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 210.36376953125 176.11515624999998)">
-                                            <use xlink:href="#g59B7FD70E4988C93441C393B24C8310A" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5C103B891D723FFD48962AE28BB10ED4" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5D542D13454767088E77B79379744EF6" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g31735550B876A33BF6BDE75DCCD8510F" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="54.03125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE67FF0C3CC0E123C2F7F9DF5A5384AEC" x="62.24169921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="70.4521484375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g59B7FD70E4988C93441C393B24C8310A" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5C103B891D723FFD48962AE28BB10ED4" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5D542D13454767088E77B79379744EF6" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g31735550B876A33BF6BDE75DCCD8510F" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="54.03125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE67FF0C3CC0E123C2F7F9DF5A5384AEC" x="62.24169921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="70.4521484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 210.36376953125 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="75.271728515625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 285.635498046875 176.11515624999998)">
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="4.712890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="10.0009765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="15.0849609375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="20.58642578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7C6B56C3BCB0CDEE8A8AB743D537BFBF" x="25.29931640625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="30.64306640625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="36.033203125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="4.712890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="10.0009765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="15.0849609375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="20.58642578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7C6B56C3BCB0CDEE8A8AB743D537BFBF" x="25.29931640625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="30.64306640625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="36.033203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 285.635498046875 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="41.64599609375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 327.281494140625 176.11515624999998)">
-                                            <use xlink:href="#g2ECF16518755BA07C52E0BB05E4DBAD9" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gF3E539211F1E368E152001D9C94E3A48" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g59E7400961FD60F81B6CEC84FD13B036" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7FD9A2A98B236E7FC3F8F1CEF1153758" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2ECF16518755BA07C52E0BB05E4DBAD9" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gF3E539211F1E368E152001D9C94E3A48" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g59E7400961FD60F81B6CEC84FD13B036" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7FD9A2A98B236E7FC3F8F1CEF1153758" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 327.281494140625 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="45.82080078125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 373.102294921875 176.11515624999998)">
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="5.2509765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="7.31982421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="9.388671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="14.1015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="16.17041015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="21.560546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gB92C1889FF1EFD5A5B0F026345711303" x="26.8486328125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="30.95849609375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="36.3486328125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="41.63671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE8DF9A472AFE3DD398D4143DC3969F6F" x="43.70556640625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="51.1181640625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="56.146484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="61.53662109375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="69.45947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="74.9609375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="80.044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="85.0732421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="88.3017578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="90.37060546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="95.7607421875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="5.2509765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="7.31982421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="9.388671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="14.1015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="16.17041015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="21.560546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB92C1889FF1EFD5A5B0F026345711303" x="26.8486328125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="30.95849609375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="36.3486328125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="41.63671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE8DF9A472AFE3DD398D4143DC3969F6F" x="43.70556640625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="51.1181640625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="56.146484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="61.53662109375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="69.45947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="74.9609375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="80.044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="85.0732421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="88.3017578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="90.37060546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="95.7607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 373.102294921875 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="101.048828125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 474.151123046875 176.11515624999998)">
-                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g51A865FC60A093E5DB5389964D46D320" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7238A0FF1136A9BF003C8F05B41980A2" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g51A865FC60A093E5DB5389964D46D320" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7238A0FF1136A9BF003C8F05B41980A2" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 474.151123046875 166.45335937499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="27.015625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                     </g>
                                 </g>
                                 <g class="typst-group">
                                     <g>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 188.721953125)">
-                                            <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g31735550B876A33BF6BDE75DCCD8510F" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7D4A10D3AAB0A4F35403D16F826BDE3D" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gEE631DB78832C487FED98731E5FEAB24" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gADBC3C3DFA8FC19B7835DE2027779707" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="43.4365234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="51.64697265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gC4464A286DFCF79BEC666F60A526516F" x="62.24169921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g3004DED05E9C00F8CEAB47EDFF2BDD02" x="70.4521484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="78.66259765625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA0333BD75FB87226C6DDE77B2D6DC161" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g31735550B876A33BF6BDE75DCCD8510F" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7D4A10D3AAB0A4F35403D16F826BDE3D" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEE631DB78832C487FED98731E5FEAB24" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gADBC3C3DFA8FC19B7835DE2027779707" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="43.4365234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="51.64697265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC4464A286DFCF79BEC666F60A526516F" x="62.24169921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g3004DED05E9C00F8CEAB47EDFF2BDD02" x="70.4521484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="78.66259765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 179.06015625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="83.445068359375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 93.037841796875 188.721953125)">
-                                            <use xlink:href="#g2435B3E41A35965EF60A42191703CF52" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="5.0654296875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="13.27587890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="16.453369140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="21.843505859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="29.766357421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="35.379150390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="40.092041015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="43.26953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="48.65966796875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="53.94775390625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2435B3E41A35965EF60A42191703CF52" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g83053D053D4DFED7387DAA6BC7CE986B" x="5.0654296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="13.27587890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="16.453369140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="21.843505859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="29.766357421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="35.379150390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="40.092041015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="43.26953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="48.65966796875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="53.94775390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 93.037841796875 179.06015625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="61.5830078125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 154.620849609375 188.721953125)">
-                                            <use xlink:href="#g663DA80E8D0B311EF590DB5B43646068" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g663DA80E8D0B311EF590DB5B43646068" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 154.620849609375 179.06015625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="18.80517578125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 173.426025390625 188.721953125)">
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.0283203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="10.41845703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="18.34130859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="23.8427734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="28.9267578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.955078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="37.18359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="39.25244140625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="44.642578125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.0283203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="10.41845703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="18.34130859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="23.8427734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="28.9267578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="33.955078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="37.18359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="39.25244140625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="44.642578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 173.426025390625 179.06015625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="49.9306640625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 223.356689453125 188.721953125)">
-                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g230258EA58E8F6A4472F3C40DE112AB6" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7FD9A2A98B236E7FC3F8F1CEF1153758" x="37.6103515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7D4A10D3AAB0A4F35403D16F826BDE3D" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g70FAD7852A999F1D46F63BEAE5EB1A11" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g230258EA58E8F6A4472F3C40DE112AB6" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7FD9A2A98B236E7FC3F8F1CEF1153758" x="37.6103515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7D4A10D3AAB0A4F35403D16F826BDE3D" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 223.356689453125 179.06015625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="56.41552734375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 279.772216796875 188.721953125)">
-                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="2.06884765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="7.15283203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="10.330322265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="15.581298828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="20.869384765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gE8DF9A472AFE3DD398D4143DC3969F6F" x="25.897705078125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE65BA6ECF3700A2762DD4317A308CD01" x="2.06884765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="7.15283203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="10.330322265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2D078651A2B650B090F5DE30A2354BC2" x="15.581298828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gD401B2F33CE795DFA18FEAACF4EDA1C3" x="20.869384765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE8DF9A472AFE3DD398D4143DC3969F6F" x="25.897705078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 279.772216796875 179.06015625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="30.926025390625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                         <g class="typst-text" transform="matrix(1 0 0 -1 310.6982421875 188.721953125)">
-                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g59091AFC041A76560AAF7FD754144DE" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="18.80517578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
+                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g59091AFC041A76560AAF7FD754144DE" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB617553B53D1015E6931D6AF920A0A83" x="18.80517578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                                         </g>
+                                        <a transform="matrix(1 0 0 1 310.6982421875 179.06015625)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble">
+                                            <rect width="29.427734375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
                                     </g>
                                 </g>
                             </g>
@@ -1546,112 +1658,144 @@
                         </g>
                         <g class="typst-group">
                             <g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 213.93554687499997)">
-                                    <use xlink:href="#g4F6155A00DAD6C4BD2C2DA9E94CABE85" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g4FA00EC501F868B7657069872738CDB7" x="14.76025390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEF9697009C6052DDEAAC54A3744A1706" x="20.521484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g9AB9980C7FF3AD89BDD33F45345CC271" x="28.73193359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB82D78DFF4393EC521FB5E582CF75266" x="39.32666015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="47.537109375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g95FD6E8E8BCFEB9FCC698C68D9242FCF" x="55.74755859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g170947BF6E32B2AA5849941213F53581" x="63.9580078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g9B402F0CBF675556C6934795E3C7D3AD" x="74.552734375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g3D9DA2EF864328B80B7828BF0D1ED1B4" x="82.76318359375" y="0" fill="#000000" fill-rule="nonzero"/>
+                                <g class="typst-group">
+                                    <g>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 213.93554687499997)">
+                                            <use xlink:href="#g4F6155A00DAD6C4BD2C2DA9E94CABE85" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6433C8138355FB8DDDBACC9A2B33DCE8" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4FA00EC501F868B7657069872738CDB7" x="14.76025390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEF9697009C6052DDEAAC54A3744A1706" x="20.521484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9AB9980C7FF3AD89BDD33F45345CC271" x="28.73193359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB82D78DFF4393EC521FB5E582CF75266" x="39.32666015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="47.537109375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g95FD6E8E8BCFEB9FCC698C68D9242FCF" x="55.74755859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g170947BF6E32B2AA5849941213F53581" x="63.9580078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g9B402F0CBF675556C6934795E3C7D3AD" x="74.552734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g3D9DA2EF864328B80B7828BF0D1ED1B4" x="82.76318359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 204.27374999999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="93.35791015625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 102.95068359375 213.93554687499997)">
+                                            <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.50146484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="10.8916015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="15.6044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="18.8330078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="26.755859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="32.14599609375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="35.778076171875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="38.95556640625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="44.20654296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7B768014EDF5FEE334BE152A5B6D9DC0" x="54.513671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 102.95068359375 204.27374999999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="65.98974609375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 168.9404296875 213.93554687499997)">
+                                            <use xlink:href="#g33E3AD878EE57C2159924A2520348298" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7D4A10D3AAB0A4F35403D16F826BDE3D" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="16.4208984375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g56BD748FBF337B26D2C6F9804F821C57" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gF6FB7FDC15A5ECAE41966242AC0D4902" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB7667CCFDB81A1D7978B6033901FC79D" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="54.03125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEB2357A658D721747005BEA4CCF2EB72" x="64.6259765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC9A45DBE177FB022CF0B890D19C9A8B" x="72.83642578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g47C688DA04A4933236C146765B6222E2" x="81.046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gBFDE95D89EC64F1C5A7EA7C3579F7242" x="89.25732421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g3D3752FF22F2B8B02F3199345E869986" x="99.85205078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="108.0625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB1B9E11BC0B59BCEDDA41676458ABC81" x="116.27294921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 168.9404296875 204.27374999999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="121.0693359375" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 290.009765625 213.93554687499997)">
+                                            <use xlink:href="#g874AC68E93DE70DCA56D5846074FD020" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="5.2880859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="7.35693359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="12.9697265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="18.220703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 290.009765625 204.27374999999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="23.92626953125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 313.93603515625 213.93554687499997)">
+                                            <use xlink:href="#gC090C0183ADAB600321F71D2373755E4" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g7A3FFA39F65CC0515FB07D8E983931E6" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="16.4208984375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2014437739C51A481A89F946CD8F6378" x="27.015625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA5EFC86169E5CD0E61196878DC4FBD90" x="37.6103515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4DC012A838C1ED4411A92E61F912DDB2" x="45.82080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="54.03125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE59E182825CED16B411317A4D3601B54" x="64.6259765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC2DF531F9B61E6E1972194E0E6B8F20E" x="72.96630859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g949C09516E3C50D9EEE9433A3A7409F4" x="81.1767578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="89.38720703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gFF7F6A817A2D3538D4CC97410325755E" x="99.98193359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g18F0B4A6C8D8D28C8F16CADA86D5DDDE" x="108.1923828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gF0ADFB51B621702B1DBAC43E967D75ED" x="118.787109375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="126.99755859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8EFE255C8EAE615BCDC6F17A4745CF5F" x="135.2080078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g3C81E6A79A7100045A3C855BDA809A05" x="143.41845703125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="151.62890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="162.2236328125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="170.43408203125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g6C81D54A99AB244D4C542DE640DB162A" x="181.02880859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 313.93603515625 204.27374999999998)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="189.2392578125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                    </g>
                                 </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 102.95068359375 213.93554687499997)">
-                                    <use xlink:href="#g78A332B00D6CE10CA1592E662F5BF4B7" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="5.50146484375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gABC3E45150203502373B3F95501B688C" x="10.8916015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="15.6044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="18.8330078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6060BAEFAD58F6E71C6C4CD0C57D44E8" x="26.755859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="32.14599609375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g7856341A513B1E8D593558BC713119B0" x="35.778076171875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="38.95556640625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g141934C5DF94651FCDED643AE5F4358A" x="44.20654296875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g7B768014EDF5FEE334BE152A5B6D9DC0" x="54.513671875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 168.9404296875 213.93554687499997)">
-                                    <use xlink:href="#g33E3AD878EE57C2159924A2520348298" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g7D4A10D3AAB0A4F35403D16F826BDE3D" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="16.4208984375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g56BD748FBF337B26D2C6F9804F821C57" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gF6FB7FDC15A5ECAE41966242AC0D4902" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB7667CCFDB81A1D7978B6033901FC79D" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="54.03125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEB2357A658D721747005BEA4CCF2EB72" x="64.6259765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC9A45DBE177FB022CF0B890D19C9A8B" x="72.83642578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g47C688DA04A4933236C146765B6222E2" x="81.046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gBFDE95D89EC64F1C5A7EA7C3579F7242" x="89.25732421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g3D3752FF22F2B8B02F3199345E869986" x="99.85205078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gAF3FFA792D603B0242AB5010026D945A" x="108.0625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB1B9E11BC0B59BCEDDA41676458ABC81" x="116.27294921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 290.009765625 213.93554687499997)">
-                                    <use xlink:href="#g874AC68E93DE70DCA56D5846074FD020" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g5A34E7DC052847B76638243E0D6B7D47" x="5.2880859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="7.35693359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="12.9697265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC38C5F3845FD9F1A07E50F5C8FEB3C54" x="18.220703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 313.93603515625 213.93554687499997)">
-                                    <use xlink:href="#gC090C0183ADAB600321F71D2373755E4" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g7A3FFA39F65CC0515FB07D8E983931E6" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g85292C64E2ADE500F0C1FEFB4C2819CE" x="16.4208984375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2014437739C51A481A89F946CD8F6378" x="27.015625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gA5EFC86169E5CD0E61196878DC4FBD90" x="37.6103515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g4DC012A838C1ED4411A92E61F912DDB2" x="45.82080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6DDAF2523A9F5BC89EFE793622CA3E7E" x="54.03125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gE59E182825CED16B411317A4D3601B54" x="64.6259765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC2DF531F9B61E6E1972194E0E6B8F20E" x="72.96630859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g949C09516E3C50D9EEE9433A3A7409F4" x="81.1767578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1413997FE798534D50A0E3FFAC9A0B47" x="89.38720703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gFF7F6A817A2D3538D4CC97410325755E" x="99.98193359375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g18F0B4A6C8D8D28C8F16CADA86D5DDDE" x="108.1923828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gF0ADFB51B621702B1DBAC43E967D75ED" x="118.787109375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g75A9C288785935005027BA8886E1C9FB" x="126.99755859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g8EFE255C8EAE615BCDC6F17A4745CF5F" x="135.2080078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g3C81E6A79A7100045A3C855BDA809A05" x="143.41845703125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="151.62890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="162.2236328125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="170.43408203125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g6C81D54A99AB244D4C542DE640DB162A" x="181.02880859375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 226.54234374999996)">
-                                    <use xlink:href="#g5CB77FD8F0B37F3BB2A52F0B59EAECE9" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g14CC684E222C6DF1062658732CF910A2" x="10.5947265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gDF81C93BD55F88ECA50EDCE86C4A2684" x="21.189453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="29.39990234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="37.6103515625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 52.022705078125 226.54234374999996)">
-                                    <use xlink:href="#gF716523BACEC9C2403F020FFEA31E44F" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="5.691650390625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="10.942626953125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="16.555419921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="22.168212890625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="24.237060546875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gFBE1FD50804B711A45889E9DEE6EAB67" x="31.872314453125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gE78AD58AB7DF7FB7AC27616983780D6C" x="40.03173828125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g2435B3E41A35965EF60A42191703CF52" x="46.1640625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                </g>
-                                <g class="typst-text" transform="matrix(1 0 0 -1 105.636474609375 226.54234374999996)">
-                                    <use xlink:href="#g1A6515F58DFF6C8B74E131646CB642AD" x="0" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gC7A1564D9A67E1B0357E2953DB6F004B" x="8.21044921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g3C81E6A79A7100045A3C855BDA809A05" x="16.4208984375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="24.63134765625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="35.22607421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="43.4365234375" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g506E3E542AFF56D485795C03B9DACEB0" x="54.03125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="62.24169921875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gA5EFC86169E5CD0E61196878DC4FBD90" x="72.83642578125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g5CB77FD8F0B37F3BB2A52F0B59EAECE9" x="81.046875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gADBC3C3DFA8FC19B7835DE2027779707" x="89.25732421875" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gAD95FC7881BBDCBBC118604340EDEB7E" x="99.85205078125" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#gB82D78DFF4393EC521FB5E582CF75266" x="108.0625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g62319907EB08160CE340F478496A244F" x="118.6572265625" y="0" fill="#000000" fill-rule="nonzero"/>
-                                    <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="126.86767578125" y="0" fill="#000000" fill-rule="nonzero"/>
+                                <g class="typst-group">
+                                    <g>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 9.5927734375 226.54234374999996)">
+                                            <use xlink:href="#g5CB77FD8F0B37F3BB2A52F0B59EAECE9" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g14CC684E222C6DF1062658732CF910A2" x="10.5947265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gDF81C93BD55F88ECA50EDCE86C4A2684" x="21.189453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g95560A31962F78E6AA03047ABABE15B3" x="29.39990234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEAD5DCD99AE287CDFC21F3B0647FB6E9" x="37.6103515625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 9.5927734375 216.88054687499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="42.429931640625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 52.022705078125 226.54234374999996)">
+                                            <use xlink:href="#gF716523BACEC9C2403F020FFEA31E44F" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="5.691650390625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="10.942626953125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE291AF8EEDB94A05C681CB3659DB4FCD" x="16.555419921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAB66DE4934E9909A343436A48DBA706E" x="22.168212890625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g8E04D016627FED5BB2B256506DBDE418" x="24.237060546875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gFBE1FD50804B711A45889E9DEE6EAB67" x="31.872314453125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gE78AD58AB7DF7FB7AC27616983780D6C" x="40.03173828125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g2435B3E41A35965EF60A42191703CF52" x="46.1640625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 52.022705078125 216.88054687499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="53.61376953125" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                        <g class="typst-text" transform="matrix(1 0 0 -1 105.636474609375 226.54234374999996)">
+                                            <use xlink:href="#g1A6515F58DFF6C8B74E131646CB642AD" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gC7A1564D9A67E1B0357E2953DB6F004B" x="8.21044921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g3C81E6A79A7100045A3C855BDA809A05" x="16.4208984375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g44C18BEEE2C614AF4D201B68DB7B65B7" x="24.63134765625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gEA85932EBD2062A76A2369DFE4FAB1E7" x="35.22607421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="43.4365234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g506E3E542AFF56D485795C03B9DACEB0" x="54.03125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g1F0906BCFB24D8072B73C188880AB25D" x="62.24169921875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gA5EFC86169E5CD0E61196878DC4FBD90" x="72.83642578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g5CB77FD8F0B37F3BB2A52F0B59EAECE9" x="81.046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gADBC3C3DFA8FC19B7835DE2027779707" x="89.25732421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gAD95FC7881BBDCBBC118604340EDEB7E" x="99.85205078125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#gB82D78DFF4393EC521FB5E582CF75266" x="108.0625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g62319907EB08160CE340F478496A244F" x="118.6572265625" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                            <use xlink:href="#g4598416C20AB5FF651809D644A343A0B" x="126.86767578125" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                                        </g>
+                                        <a transform="matrix(1 0 0 1 105.636474609375 216.88054687499996)" href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem" xlink:href="https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem">
+                                            <rect width="129.27978515625" height="12.606796875" fill="transparent" stroke="none"/>
+                                        </a>
+                                    </g>
                                 </g>
                             </g>
                         </g>
@@ -2543,24 +2687,24 @@
                     <use xlink:href="#g13031C25031BC6FAB9F3FEC69232463C" x="129.7119140625" y="0" fill="#969696" fill-rule="nonzero"/>
                 </g>
                 <g class="typst-text" transform="matrix(1 0 0 -1 472.1007032018947 819.4444666584645)">
-                    <use xlink:href="#gBF05756E84C12B561D2F86DE99009428" x="0" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#gBCBABD25ADC13FBC8C6F971C3D9148B7" x="6.48193359375" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#gB4539F854EC568D88665452B5DE1C763" x="12.9638671875" y="0" fill="#969696" fill-rule="nonzero"/>
+                    <use xlink:href="#gBF05756E84C12B561D2F86DE99009428" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#gBCBABD25ADC13FBC8C6F971C3D9148B7" x="6.48193359375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#gB4539F854EC568D88665452B5DE1C763" x="12.9638671875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                 </g>
                 <a transform="matrix(1 0 0 1 472.1007032018947 811.8167322834646)" href="https://github.com/ever0de/resume" xlink:href="https://github.com/ever0de/resume">
                     <rect width="16.75048828125" height="9.952734375" fill="transparent" stroke="none"/>
                 </a>
                 <g class="typst-text" transform="matrix(1 0 0 -1 488.8511914831447 819.4444666584645)">
-                    <use xlink:href="#g990C88812642D86D8B86C447B2D1B9AF" x="0" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g3C04A0CCC549C2DB387FADB0D963EAE6" x="2.493896484375" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g629E5140EDCB6D83375D1AADDE61AA13" x="6.639404296875" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g4D6B2848B774FA4E46881C154ACA43AE" x="10.360107421875" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g892ED0B2412621B45D00BE0BDEE924B2" x="14.505615234375" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g3C04A0CCC549C2DB387FADB0D963EAE6" x="20.760498046875" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g13031C25031BC6FAB9F3FEC69232463C" x="24.906005859375" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#gE809C11DFCCD35B255EA7CD551FCE03" x="26.810302734375" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g89D93A2DADCAB4942CEC1796AA7E5433" x="29.359130859375" y="0" fill="#969696" fill-rule="nonzero"/>
-                    <use xlink:href="#g9F85B0006E10478198BA72AB2CD2014B" x="33.328857421875" y="0" fill="#969696" fill-rule="nonzero"/>
+                    <use xlink:href="#g990C88812642D86D8B86C447B2D1B9AF" x="0" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g3C04A0CCC549C2DB387FADB0D963EAE6" x="2.493896484375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g629E5140EDCB6D83375D1AADDE61AA13" x="6.639404296875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g4D6B2848B774FA4E46881C154ACA43AE" x="10.360107421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g892ED0B2412621B45D00BE0BDEE924B2" x="14.505615234375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g3C04A0CCC549C2DB387FADB0D963EAE6" x="20.760498046875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g13031C25031BC6FAB9F3FEC69232463C" x="24.906005859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#gE809C11DFCCD35B255EA7CD551FCE03" x="26.810302734375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g89D93A2DADCAB4942CEC1796AA7E5433" x="29.359130859375" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
+                    <use xlink:href="#g9F85B0006E10478198BA72AB2CD2014B" x="33.328857421875" y="0" fill="#1c7ed6" fill-rule="nonzero"/>
                 </g>
                 <a transform="matrix(1 0 0 1 488.8511914831447 811.8167322834646)" href="https://github.com/ever0de/resume" xlink:href="https://github.com/ever0de/resume">
                     <rect width="37.672119140625" height="9.952734375" fill="transparent" stroke="none"/>
