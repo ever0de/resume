@@ -1,0 +1,23 @@
+modules/metadata.typ
+  6023d570dc3d7b30 42,44,60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "d5a9d3d80d7a6a798bacce967bf0cc672980cfb2",
+  "prompts": {
+    "6023d570dc3d7b30": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "a236bfe6-2536-49bb-9526-38a964ecef66",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 5,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
