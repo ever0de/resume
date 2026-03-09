@@ -1,5 +1,7 @@
 # Question
 
+> 본 문서는 공개된 기술 레퍼런스와 직접 수행한 분석·실험을 토대로 작성되었으며, 회사의 기밀정보나 영업비밀을 포함하지 않습니다.
+
 We're currently integrating MVCC atop a key-value Storage, enabling queries with snapshots of specific versions.
 
 Q: What would be the most efficient approach to generate a "snapshot of a specific version" or an "index of a specific version" in this context?

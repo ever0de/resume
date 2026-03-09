@@ -1,5 +1,7 @@
 # Stateless In-Memory Cache — Cosmos SDK 기반 블록체인 RPC Scale-out 문제 해결
 
+> 본 문서는 공개된 기술 레퍼런스와 직접 수행한 분석·실험을 토대로 작성되었으며, 회사의 기밀정보나 영업비밀을 포함하지 않습니다.
+
 | 항목 | 내용 |
 |------|------|
 | **회사** | Newmetric |
