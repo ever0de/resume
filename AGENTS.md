@@ -1,6 +1,6 @@
 # AGENTS
 
-이 이력서는 두 파일로 내용이 나뉘어 있으며, **반드시 동시에 수정**해야 합니다.
+이 이력서는 국문/영문으로 내용이 나뉘어 있으며, **반드시 동시에 수정**해야 합니다.
 
 ## 파일 구조
 
@@ -27,7 +27,7 @@ typst compile resume.typ output/resume.pdf
 
 ## GitHub Permalink 가이드라인
 
-i력서 내 `#link()`로 `public/` 문서를 참조할 때는 `main` 브랜치 대신 **특정 커밋 해시를 permalink로 사용**해야 합니다.  
+이력서 내 `#link()`로 `public/` 문서를 참조할 때는 `main` 브랜치 대신 **특정 커밋 해시를 permalink로 사용**해야 합니다.  
 `main`은 mutable이라 나중에 내용이 바뀌면 이력서에서 가리키는 문서가 달라질 수 있습니다.
 
 ### 해시 결정 방법
