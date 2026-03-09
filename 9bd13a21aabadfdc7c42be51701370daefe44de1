@@ -1,0 +1,62 @@
+modules/components.typ
+  ad8d36b4e1b362e2 124
+scripts/md_template.typ
+  4fc5ba721849671b 12
+  e49bb61861db3656 1-11,13-84
+resume.typ
+  87690e0bf7be1977 82
+modules/metadata.typ
+  ad8d36b4e1b362e2 39,45-46,50-51,57-58,70-74,77-81,113,126,139,152,165,178,191,204,217,230,243
+  87690e0bf7be1977 40-41,44,49,52-53,55-56
+  e068f793c5a6a6be 133,160
+scripts/md_to_pdf.sh
+  e49bb61861db3656 1-27
+resume_ko.typ
+  87690e0bf7be1977 84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "9bd13a21aabadfdc7c42be51701370daefe44de1",
+  "prompts": {
+    "4fc5ba721849671b": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "7fbbad80-1097-460f-882c-792f3442bd1f",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "87690e0bf7be1977": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "25d65833-4ab9-4c3b-8746-0a6446f87239",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 22,
+      "total_deletions": 22,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    },
+    "e49bb61861db3656": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "89224675-7b7b-4e0e-89ca-ee8cb700fe68",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 111,
+      "total_deletions": 0,
+      "accepted_lines": 110,
+      "overriden_lines": 0
+    }
+  }
+}
