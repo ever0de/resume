@@ -1,0 +1,23 @@
+scripts/md_to_pdf.sh
+  cd90fd9c92d516a8 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "e7ebf6369559e2e901fdf1c5c95c9b62e19593fe",
+  "prompts": {
+    "cd90fd9c92d516a8": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "fca0cb9c-c41d-4231-beb8-d5fb78302806",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
