@@ -37,7 +37,7 @@
         분산 KV 스토리지 시스템 전체를 처음부터 설계·구현 및 운영.
 
         - 수평 확장이 불가능한 단일 노드 구조를 수평 확장 가능하게 전환 — 동일 하드웨어 기존 구현 대비 17.5× 처리량 개선 (약 140k ops/s, p90 26.1ms; 프로덕션 spike 패턴 트래픽 기준).
-          write(주기적 batch)·read(상시 고빈도) 비대칭 워크로드에서 lock-based in-memory 프로토타입이 경합 한계를 드러냄을 계측 후, lock-free arena skiplist 기반 MVCC 캐시 레이어를 설계·구현:
+          write(주기적 batch)·read(상시 고빈도) 비대칭 워크로드에서 lock-based in-memory 프로토타입이 경합 한계를 드러냄을 계측 후, lock-free 기반 MVCC 캐시 레이어를 설계·구현:
           - lock-free arena skiplist MVCC — write lock 없이 read/write를 동시 처리. 메모리 상한 도달 시 ring-buffer 방식의 슬롯 관리와 atomic reference counting으로 진행 중인 읽기의 snapshot consistency를 보장하면서 arena를 안전하게 교체.
           - sparse key space에서 range query 캐시 정합성 확보 — 이미 fetch한 구간 정보를 별도 인덱스로 추적해 불필요한 DB 재조회를 방지.
         - 기존 time travel query 구현에서 각 버전을 독립 저장하는 구조상 iterator가 버전 경계마다 tombstone을 전부 스캔해야 하는 비효율을 copy-on-write 스냅샷 체크포인트 도입으로 해소 — 주기적 기준점을 확보하고 체크포인트 사이 버전은 delta merge-on-read로 서빙해, 스캔 비용과 스토리지 풋프린트를 함께 최소화.
@@ -49,7 +49,7 @@
         Designed and built a distributed KV storage system from the ground up.
 
         - Converted a non-horizontally-scalable single-node architecture into a horizontally scalable one — 17.5× throughput improvement over prior implementation on identical hardware (≈140k ops/s, p90 26.1ms under production spike-pattern traffic).
-          Under write-batch / continuous-read asymmetric workloads, a lock-based in-memory prototype revealed contention limits through profiling; designed and implemented a lock-free arena skiplist MVCC cache layer:
+          Under write-batch / continuous-read asymmetric workloads, a lock-based in-memory prototype revealed contention limits through profiling; designed and implemented a lock-free MVCC cache layer:
           - Lock-free arena skiplist MVCC — concurrent read/write without write locks. On memory limit: ring-buffer slot management with atomic reference counting ensures snapshot consistency for in-flight reads while safely rotating arenas.
           - Sparse key space cache coherence for range queries — a dedicated index tracks which ranges have already been fetched to prevent redundant DB reads.
         - The existing time travel query implementation stored each version independently, forcing iterators to scan tombstones across every version boundary; replaced with CoW snapshot checkpoints as periodic baselines and delta merge-on-read for intermediate versions — minimising both scan overhead and storage footprint.
