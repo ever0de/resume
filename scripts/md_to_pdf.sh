@@ -20,7 +20,8 @@ for d in "${dirs[@]}"; do
   echo "converting $d ..."
   # 내부 앵커 링크(#anchor) 제거 후 변환 — typst label 불일치 방지
   sed -E 's/\[([^]]+)\]\(#[^)]+\)/\1/g' "$src" \
-    | pandoc --pdf-engine=typst --template="$TEMPLATE" -o "$out"
+    | pandoc --pdf-engine=typst --template="$TEMPLATE" \
+             --resource-path="$ROOT/$d" -o "$out"
   echo "  → $out"
 done
 
