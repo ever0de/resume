@@ -1,0 +1,68 @@
+public/newmetric/pebble/multi-version-snapshot-research.md
+  e068f793c5a6a6be 3-4
+public/newmetric/postmortem/README.md
+  e068f793c5a6a6be 3-4
+public/newmetric/pebble/README.md
+  e068f793c5a6a6be 3-4
+public/newmetric/cache/README.md
+  e068f793c5a6a6be 3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "6cfe517a248bf45c1c01819df02b2292559ea8a2",
+  "prompts": {
+    "1442dc429529cf78": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "2dc85a42-6a36-499f-a304-a9d60f01a8ac",
+        "model": "copilot/gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 7,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "ad8d36b4e1b362e2": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "528d2819-2c1a-4e66-8898-3c657b6ed39a",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 94,
+      "total_deletions": 84,
+      "accepted_lines": 38,
+      "overriden_lines": 0
+    },
+    "e068f793c5a6a6be": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "f2c5a462-617f-46b4-b0ae-49ca880fb3d2",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 12,
+      "accepted_lines": 16,
+      "overriden_lines": 0
+    },
+    "e6880c50c2b2e7f5": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "2806f0e9-8748-4328-876f-dc96fb976f7c",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 758,
+      "total_deletions": 5,
+      "accepted_lines": 753,
+      "overriden_lines": 0
+    }
+  }
+}
