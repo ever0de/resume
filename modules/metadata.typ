@@ -16,8 +16,8 @@
     github: "ever0de",
   ),
   bio: (
-    ko: "시스템 내부가 실제로 어떻게 작동하는지 파고드는 것을 즐기는 프로그래머입니다.",
-    en: "A programmer who enjoys digging into how systems actually work under the hood.",
+    ko: "시스템 내부가 실제로 어떻게 작동하는지 파고드는 것을 즐기는 엔지니어입니다.",
+    en: "A engineer who enjoys digging into how systems actually work under the hood.",
   ),
   skills: (
     (label-ko: "언어", label-en: "Languages", value: "Rust, Go, TypeScript"),
