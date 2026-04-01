@@ -1,0 +1,25 @@
+resume_ko.typ
+  cb9c043921e00fce 31
+resume.typ
+  cb9c043921e00fce 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "9b91c2df050efbdf04691011f0462590a9b40695",
+  "prompts": {
+    "cb9c043921e00fce": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dd9ebc1f-d9c3-4d32-9a4a-b6c75f7657d3",
+        "model": "unknown"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 23,
+      "total_deletions": 52,
+      "accepted_lines": 23,
+      "overriden_lines": 0
+    }
+  }
+}
