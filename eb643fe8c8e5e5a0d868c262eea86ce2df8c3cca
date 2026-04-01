@@ -1,0 +1,31 @@
+modules/metadata.typ
+  cb9c043921e00fce 101
+modules/components.typ
+  cb9c043921e00fce 18,53,57-58
+public/newmetric/pebble/README.md
+  cb9c043921e00fce 68
+public/newmetric/postmortem/README.md
+  cb9c043921e00fce 5,25,79,122
+public/newmetric/cache/README.md
+  cb9c043921e00fce 1,15,17,19,27,37,101,117,122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "eb643fe8c8e5e5a0d868c262eea86ce2df8c3cca",
+  "prompts": {
+    "cb9c043921e00fce": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dd9ebc1f-d9c3-4d32-9a4a-b6c75f7657d3",
+        "model": "unknown"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 21,
+      "overriden_lines": 0
+    }
+  }
+}
