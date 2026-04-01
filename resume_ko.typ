@@ -28,7 +28,7 @@
   size: 9.5pt,
   lang: "ko",
 )
-#set par(leading: 0.62em)
+#set par(leading: 0.72em)
 #show heading: set block(above: 1.0em, below: 0.4em)
 #show link: it => text(fill: accent)[#it]
 
