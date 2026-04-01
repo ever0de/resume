@@ -65,7 +65,7 @@ if candidate.IsCompacting() || candidate.LargestSeqNum >= env.earliestSnapshotSe
     return nil
 }
 ```
-파일의 `LargestSeqNum`이 가장 오래된 snapshot의 seq num 이상이면 elision이 차단됩니다. 우리는 최근 10개 height를 Pebble snapshot으로 유지하고 있었습니다. move compaction으로 L6에 도달한 파일들은 최근에 flush된 것이므로 LargestSeqNum이 높고, 이 값이 earliestSnapshotSeqNum 이상이 되어 **elision이 차단됩니다**. 즉 임계값 조건은 충족하더라도, 10개 height snapshot 유지가 실질적인 차단 원인이었습니다.
+파일의 `LargestSeqNum`이 가장 오래된 snapshot의 seq num 이상이면 elision이 차단됩니다. 우리는 최근 10개 timestamp를 Pebble snapshot으로 유지하고 있었습니다. move compaction으로 L6에 도달한 파일들은 최근에 flush된 것이므로 LargestSeqNum이 높고, 이 값이 earliestSnapshotSeqNum 이상이 되어 **elision이 차단됩니다**. 즉 임계값 조건은 충족하더라도, 10개 timestamp snapshot 유지가 실질적인 차단 원인이었습니다.
 
 > **왜 delete-only compaction도 도움이 안 됐나?**  
 > [`checkDeleteCompactionHints`](https://github.com/cockroachdb/pebble/blob/v1.1.2/compaction.go#L2644)는 `for l := h.tombstoneLevel + 1; l < numLevels; l++` 로 L6까지 스캔하므로, delete-only compaction 자체는 L6 파일도 대상으로 삼을 수 있습니다. 그러나 [`compactionHintFromKeys`](https://github.com/cockroachdb/pebble/blob/v1.1.2/compaction.go#L2434)에서 hint는 오직 `RangeDelete`·`RangeKeyDelete` span에서만 생성됩니다. 우리 패턴은 **point `Delete`** 를 사용했으므로 hint 자체가 생성되지 않아, L6 적용 가능 여부와 무관하게 delete-only compaction은 한 번도 트리거되지 않았습니다.

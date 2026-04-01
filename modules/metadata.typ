@@ -46,7 +46,6 @@
         - #link(
             "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble",
           )[Pebble iterator latency가 기준치(494µs–2ms) 대비 10–50×로 급등(22–26ms) — 실제 레코드 1,120개를 읽어야 하는 쿼리에서 iterator stats의 point count가 213,040으로 폭증함을 먼저 확인한 뒤 compaction picker 소스를 직접 추적해 move compaction 조건에서 tombstone이 미처리인 채 L6에 누적되는 구조와, snapshot 보존 설정이 elision-only compaction을 차단하는 상호작용을 식별. L6 tombstone 전용 compaction을 적용해 정상 latency로 복구.]
-        - arbitrary computation에 대한 partial·stateless 검증이 가능한 데이터 구조 설계 및 구현.
         - #link(
             "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem",
           )[약 18건의 프로덕션 장애 postmortem — 증상이 아닌 원인 수준까지 추적: Fiber 메모리 풀 재사용 + 비동기 채널 타이밍으로 인한 캐시 키 변조, Pebble WAL 오염으로 인한 무한 재시작 루프 등.]
@@ -64,7 +63,6 @@
         - #link(
             "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/pebble",
           )[Pebble iterator latency spiked 10–50× over baseline (494µs–2ms) to 22–26ms — a query reading 1,120 records showed point count of 213,040 in iterator stats, revealing excessive tombstone scanning; traced the compaction picker source to find tombstones accumulating in L6 unprocessed under move compaction conditions and snapshot retention blocking elision-only compaction. Applied L6-tombstone-targeted compaction to restore normal latency.]
-        - Designed and implemented a data structure enabling partial, stateless verification of arbitrary computation.
         - #link(
             "https://github.com/ever0de/resume/tree/9bd13a2/public/newmetric/postmortem",
           )[Root-cause analysis across ~18 production incidents: Fiber memory-pool reuse + async channel timing corrupting cache keys; Pebble WAL corruption causing an infinite restart loop; etc.]
@@ -100,7 +98,7 @@
       org-en: "HYPERITHM Co., Ltd. · Industrial Technical Personnel",
       period-ko: "2019년 1월 – 2021년 10월",
       period-en: "Jan 2019 – Oct 2021",
-      tags: ("Rust", "Go", "TypeScript"),
+      tags: ("Rust", "TypeScript"),
       body-ko: [
         - 중앙화 거래소(CEX) REST·WebSocket·FIX 프로토콜 클라이언트 Rust로 구현.
         - OrderServer 추상화로 다중 거래소를 지원하는 Order Execution System 구축 — actix-web HTTP API로 전략에 주문 생성·취소·잔고·포지션 조회 제공, MongoDB 기반 주문 상태 관리.
@@ -172,19 +170,6 @@
       contrib-en: "Implemented features, bindings, tests, and documentation. Implemented according to provided specs; validated compatibility and tests.",
     ),
     (
-      project: "InjectiveLabs/cosmos-sdk",
-      repo: "InjectiveLabs/cosmos-sdk",
-      url: "https://github.com/InjectiveLabs/cosmos-sdk/pull/77",
-      period-ko: "2025.09 – 2025.10",
-      period-en: "Sep – Oct 2025",
-      tags: ("Go",),
-      stats: "1 PR",
-      about-ko: "Injective 메인넷 구동 cosmos-sdk 포크.",
-      about-en: "cosmos-sdk fork powering Injective mainnet.",
-      contrib-ko: "CoW 인메모리 캐시(MemStore) warmup·lifecycle 구현 (#77).",
-      contrib-en: "CoW in-memory cache (MemStore) warmup and lifecycle (#77).",
-    ),
-    (
       project: "cockroachdb/pebble",
       repo: "cockroachdb/pebble",
       url: "https://github.com/cockroachdb/pebble/pull/5458",
@@ -235,19 +220,6 @@
       about-en: "tree-sitter grammar for go.mod files.",
       contrib-ko: "replace_directive 내 comment 파싱 오류 리포트 및 수정 방향 제안 (#16).",
       contrib-en: "Reported and proposed a fix for incorrect comment parsing inside replace_directive (#16).",
-    ),
-    (
-      project: "simperby",
-      repo: "postech-dao/simperby",
-      url: "https://github.com/postech-dao/simperby/commits/main/?author=ever0de",
-      period-ko: "2023.03",
-      period-en: "Mar 2023",
-      tags: ("Rust",),
-      stats: "★74 · 3 PRs",
-      about-ko: "분산 조직을 위한 BFT 블록체인 엔진.",
-      about-en: "BFT blockchain engine for decentralized organizations.",
-      contrib-ko: "ExtraAgendaTransaction 생성 통합 테스트 추가.",
-      contrib-en: "Added integration test for ExtraAgendaTransaction creation.",
     ),
     (
       project: "sqlparser-rs",

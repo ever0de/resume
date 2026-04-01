@@ -15,7 +15,7 @@
 
 // ── 섹션 헤더 (한글/영문 공통) ───────────────────────────────────────────────
 #let section(title, lang: "ko") = {
-  block(above: 1.2em, below: 0em)[
+  block(above: 1.6em, below: 0.3em)[
     #if lang == "ko" {
       text(size: 11.5pt, weight: 800, tracking: 0.5pt)[#title]
     } else {
@@ -50,12 +50,12 @@
     align(right)[#text(fill: subtle, size: 8.5pt)[#period]],
   )
   if tags.len() > 0 {
-    block(above: 2pt, below: 3pt)[
+    block(above: 3pt, below: 5pt)[
       #tags.map(t => tag(t)).join(h(3pt))
     ]
   }
-  block(above: 3pt)[#body]
-  v(5pt)
+  block(above: 5pt)[#body]
+  v(10pt)
 }
 
 // ── 기술 스택 그리드 (메타데이터 기반) ──────────────────────────────────────
