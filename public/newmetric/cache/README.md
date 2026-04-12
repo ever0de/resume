@@ -113,7 +113,7 @@ Interval Tree를 적용해보니 RwLock 기반으로 구현하면 처음의 BTre
 
 | 단계 | 상태 | 비고 |
 |------|------|------|
-| RwLock BTree KV Store | 구현 완료 · 성능 한계 확인 | mutex blocking이 지배적 — lock-free로 방향 전환 |
+| RwLock BTree KV Store | 구현 완료 · 성능 한계 확인 | mutex blocking이 지배적, lock-free로 방향 전환 |
 | MVCC Arena Skiplist (lock-free in-memory KV cache) | **프로덕션 배포** | timestamp를 버전으로 활용, 읽기 경합 제거 |
 | 3슬롯 Ring Buffer + Arc Ref Counting | **프로덕션 배포** | arena safe rotation 달성, no-mutex, 2GB 상한 |
 | Range History (arenaskl 기반 skiplist) | **프로덕션 배포** | O(log N) range 포함 판별, prefix query 지원 |

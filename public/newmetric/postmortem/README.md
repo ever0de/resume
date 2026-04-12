@@ -58,7 +58,7 @@ Newmetric에서 분산 KV 스토리지 서비스 운영 중 발생한 장애 대
 Fiber 프레임워크의 **zero-allocation 메모리 재사용**과 `eko/gocache`의 **비동기 setter 채널** 간 Race Condition.
 
 1. **키 추출**: 미들웨어에서 `ctx.Hostname()`으로 subdomain(고객 UUID)을 캐시 키로 사용
-2. **캐시 로드**: `NewLoadable`의 `loadFunc`으로 캐시 미스 시 PostgreSQL에서 데이터 획득 — 이 시점에는 `ctx.Hostname()` 값 유효
+2. **캐시 로드**: `NewLoadable`의 `loadFunc`으로 캐시 미스 시 PostgreSQL에서 데이터 획득; 이 시점에는 `ctx.Hostname()` 값 유효
 3. **비동기 저장**: 획득한 데이터를 `setter` **buffered channel**을 통해 백그라운드에서 Redis에 저장
 4. **메모리 반환**: 응답 전송 후 핸들러 종료 → Fiber가 `ctx` 객체를 메모리 풀에 반환, 다음 요청에 재할당
 5. **키 변조**: `setter` 채널이 실제 저장을 수행하는 시점에는 `ctx.Hostname()`이 가리키던 메모리가 **새로운 요청의 UUID로 덮어씌워짐** → 잘못된 키로 Redis에 캐시 저장
@@ -146,7 +146,7 @@ firstSubdomain := strings.Split(host, ".")[0]
 ### 현상
 
 - 고객이 Python gRPC 클라이언트로 gRPC 엔드포인트에 TLS 연결 시 통신 실패
-- `openssl s_client -alpn h2`로 확인 결과 **"No ALPN negotiated"** — HTTP/2 ALPN 협상이 이루어지지 않음
+- `openssl s_client -alpn h2`로 확인 결과 **"No ALPN negotiated"**, HTTP/2 ALPN 협상이 이루어지지 않음
 
 ### 분석 방법
 

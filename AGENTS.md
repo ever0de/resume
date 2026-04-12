@@ -20,7 +20,7 @@
 typst compile resume_ko.typ "output/resume_ko_{p}.svg"
 typst compile resume.typ "output/resume_{p}.svg"
 
-# PDF (output/에 코미트)
+# PDF (output/)
 typst compile resume_ko.typ output/resume_ko.pdf
 typst compile resume.typ output/resume.pdf
 ```
