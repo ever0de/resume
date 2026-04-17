@@ -1,0 +1,23 @@
+README.md
+  f54107b16e76d355 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "229b747b1ac8d47d2e2ff29e11d40bbfb06624d5",
+  "prompts": {
+    "f54107b16e76d355": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "3e50a8f6-1f0c-4a5b-8e24-d7564ca01b13",
+        "model": "copilot/claude-sonnet-4.6"
+      },
+      "human_author": "Jiseok CHOI",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
