@@ -13,13 +13,9 @@
   paper: "a4",
   margin: (top: 1.4cm, left: 1.6cm, right: 1.6cm, bottom: 1.6cm),
   footer: context [
-    #set text(size: 7.5pt, fill: luma(150))
-    #text[As of #datetime.today().display("[year].[month].[day]")]
     #h(1fr)
-    #link("https://github.com/ever0de/resume")[Korean: resume_ko.typ]
-    #h(8pt)
     #box(fill: luma(40), radius: 2pt, inset: (x: 5pt, y: 2pt))[
-      #text(fill: white, weight: 700)[#counter(page).display("1")]
+      #text(fill: white, weight: 700, size: 7.5pt)[#counter(page).display("1")]
     ]
   ],
 )
